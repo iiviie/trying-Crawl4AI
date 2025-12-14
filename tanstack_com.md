@@ -1,0 +1,688 @@
+[ ![](https://tanstack.com/images/logos/logo-color-100.png)![](https://tanstack.com/images/logos/logo-black.svg)![](https://tanstack.com/images/logos/logo-white.svg) TanStack](https://tanstack.com/)
+[AI v0v0](https://tanstack.com/ai)
+[](https://x.com/tan_stack)[](https://bsky.app/profile/tanstack.com)[](https://instagram.com/tan_stack)[](https://tlinz.com/discord)
+Auto
+[Log In](https://tanstack.com/login)
+[ TanStack StartRC ](https://tanstack.com/start)
+[](https://tanstack.com/start/latest/docs/framework/react/overview)[](https://tanstack.com/start/latest/docs/framework/react/examples/start-basic)[](https://github.com/tanstack/router)[](https://tanstack.com/start/latest/docs/contributors)
+[TanStack Router](https://tanstack.com/router)
+[](https://tanstack.com/router/latest/docs/framework/react/overview)[](https://tanstack.com/router/latest/docs/framework/react/examples/kitchen-sink-file-based)[](https://github.com/tanstack/router)[](https://tanstack.com/router/latest/docs/contributors)
+[TanStack Query](https://tanstack.com/query)
+[](https://tanstack.com/query/latest/docs/framework/react/overview)[](https://tanstack.com/query/latest/docs/framework/react/examples/basic)[](https://github.com/tanstack/query)[](https://tanstack.com/query/latest/docs/contributors)
+[TanStack Table](https://tanstack.com/table)
+[](https://tanstack.com/table/latest/docs/introduction)[](https://tanstack.com/table/latest/docs/framework/react/examples/basic)[](https://github.com/tanstack/table)[](https://tanstack.com/table/latest/docs/contributors)
+[ TanStack DBbeta ](https://tanstack.com/db)
+[](https://tanstack.com/db/latest/docs)[](https://github.com/tanstack/db)[](https://tanstack.com/db/latest/docs/contributors)
+[ TanStack AIalpha ](https://tanstack.com/ai)
+[](https://tanstack.com/ai/latest/docs)[](https://github.com/tanstack/ai)[](https://tanstack.com/ai/latest/docs/contributors)
+[ TanStack Formnew ](https://tanstack.com/form)
+[](https://tanstack.com/form/latest/docs)[](https://tanstack.com/form/latest/docs/framework/react/examples/simple)[](https://github.com/tanstack/form)[](https://tanstack.com/form/latest/docs/contributors)
+[TanStack Virtual](https://tanstack.com/virtual)
+[](https://tanstack.com/virtual/latest/docs/introduction)[](https://tanstack.com/virtual/latest/docs/framework/react/examples/dynamic)[](https://github.com/tanstack/virtual)[](https://tanstack.com/virtual/latest/docs/contributors)
+[ TanStack Pacerbeta ](https://tanstack.com/pacer)
+[](https://tanstack.com/pacer/latest/docs)[](https://tanstack.com/pacer/latest/docs/framework/react/examples/debounce)[](https://github.com/tanstack/pacer)[](https://tanstack.com/pacer/latest/docs/contributors)
+[ TanStack Storealpha ](https://tanstack.com/store)
+[](https://tanstack.com/store/latest/docs)[](https://tanstack.com/store/latest/docs/framework/react/examples/simple)[](https://github.com/tanstack/store)[](https://tanstack.com/store/latest/docs/contributors)
+[ TanStack Devtoolsalpha ](https://tanstack.com/devtools)
+[](https://tanstack.com/devtools/latest/docs)[](https://github.com/tanstack/devtools)[](https://tanstack.com/devtools/latest/docs/contributors)
+[More Libraries](https://tanstack.com/libraries)
+[Maintainers](https://tanstack.com/maintainers)[Partners](https://tanstack.com/partners)[Blog](https://tanstack.com/blog)[ LearnNEW ](https://tanstack.com/learn)[Support](https://tanstack.com/support)[Stats](https://tanstack.com/stats/npm)[Discord](https://tlinz.com/discord)[Merch](https://tanstack.com/merch)[GitHub](https://github.com/tanstack)[Ethos](https://tanstack.com/ethos)[Tenets](https://tanstack.com/tenets)[Brand Guide](https://tanstack.com/brand-guide)
+Framework
+![React logo](data:image/svg+xml,%3csvg%20viewBox='-11.5%20-10.23%2023%2020.46'%20xmlns='http://www.w3.org/2000/svg'%3e%3ccircle%20fill='%2361dafb'%20r='2.05'/%3e%3cg%20fill='none'%20stroke='%2361dafb'%3e%3cellipse%20rx='11'%20ry='4.2'/%3e%3cellipse%20rx='11'%20ry='4.2'%20transform='matrix\(.5%20.8660254%20-.8660254%20.5%200%200\)'/%3e%3cellipse%20rx='11'%20ry='4.2'%20transform='matrix\(-.5%20.8660254%20-.8660254%20-.5%200%200\)'/%3e%3c/g%3e%3c/svg%3e)React
+Version
+Latest
+Menu
+  * [Home](https://tanstack.com/ai/latest)
+  * [Frameworks](https://tanstack.com/ai/latest/docs/framework)
+  * [Contributors](https://tanstack.com/ai/latest/docs/contributors)
+  * [GitHub ](https://github.com/tanstack/ai)
+  * [Discord ](https://tlinz.com/discord)
+
+
+Getting Started
+  * [ Overview core ](https://tanstack.com/ai/latest/docs/getting-started/overview)
+  * [ Quick Start core ](https://tanstack.com/ai/latest/docs/getting-started/quick-start)
+  * [ Devtools core ](https://tanstack.com/ai/latest/docs/getting-started/devtools)
+
+
+Guides
+  * [ Tools core ](https://tanstack.com/ai/latest/docs/guides/tools)
+  * [ Tool Architecture core ](https://tanstack.com/ai/latest/docs/guides/tool-architecture)
+  * [ Server Tools core ](https://tanstack.com/ai/latest/docs/guides/server-tools)
+  * [ Client Tools core ](https://tanstack.com/ai/latest/docs/guides/client-tools)
+  * [ Agentic Cycle core ](https://tanstack.com/ai/latest/docs/guides/agentic-cycle)
+  * [ Tool Approval Flow core ](https://tanstack.com/ai/latest/docs/guides/tool-approval)
+  * [ Streaming core ](https://tanstack.com/ai/latest/docs/guides/streaming)
+  * [ Multimodal Content core ](https://tanstack.com/ai/latest/docs/guides/multimodal-content)
+  * [ Connection Adapters core ](https://tanstack.com/ai/latest/docs/guides/connection-adapters)
+  * [ Observability core ](https://tanstack.com/ai/latest/docs/guides/observability)
+  * [ Per-Model Type Safety core ](https://tanstack.com/ai/latest/docs/guides/per-model-type-safety)
+
+
+API
+  * [ @tanstack/ai core ](https://tanstack.com/ai/latest/docs/api/ai)
+  * [ @tanstack/ai-client core ](https://tanstack.com/ai/latest/docs/api/ai-client)
+  * [ @tanstack/ai-react core ](https://tanstack.com/ai/latest/docs/api/ai-react)
+  * [ @tanstack/ai-solid core ](https://tanstack.com/ai/latest/docs/api/ai-solid)
+
+
+Adapters
+  * [ OpenAI core ](https://tanstack.com/ai/latest/docs/adapters/openai)
+  * [ Anthropic core ](https://tanstack.com/ai/latest/docs/adapters/anthropic)
+  * [ Google Gemini core ](https://tanstack.com/ai/latest/docs/adapters/gemini)
+  * [ Ollama core ](https://tanstack.com/ai/latest/docs/adapters/ollama)
+
+
+Class References
+  * [ BaseAdapter core ](https://tanstack.com/ai/latest/docs/reference/classes/BaseAdapter)
+  * [ BatchStrategy core ](https://tanstack.com/ai/latest/docs/reference/classes/BatchStrategy)
+  * [ CompositeStrategy core ](https://tanstack.com/ai/latest/docs/reference/classes/CompositeStrategy)
+  * [ ImmediateStrategy core ](https://tanstack.com/ai/latest/docs/reference/classes/ImmediateStrategy)
+  * [ PartialJSONParser core ](https://tanstack.com/ai/latest/docs/reference/classes/PartialJSONParser)
+  * [ PunctuationStrategy core ](https://tanstack.com/ai/latest/docs/reference/classes/PunctuationStrategy)
+  * [ StreamProcessor core ](https://tanstack.com/ai/latest/docs/reference/classes/StreamProcessor)
+  * [ ToolCallManager core ](https://tanstack.com/ai/latest/docs/reference/classes/ToolCallManager)
+  * [ WordBoundaryStrategy core ](https://tanstack.com/ai/latest/docs/reference/classes/WordBoundaryStrategy)
+
+Function References
+  * [ chat core ](https://tanstack.com/ai/latest/docs/reference/functions/chat)
+  * [ chatOptions core ](https://tanstack.com/ai/latest/docs/reference/functions/chatOptions)
+  * [ combineStrategies core ](https://tanstack.com/ai/latest/docs/reference/functions/combineStrategies)
+  * [ convertMessagesToModelMessages core ](https://tanstack.com/ai/latest/docs/reference/functions/convertMessagesToModelMessages)
+  * [ convertZodToJsonSchema core ](https://tanstack.com/ai/latest/docs/reference/functions/convertZodToJsonSchema)
+  * [ createReplayStream core ](https://tanstack.com/ai/latest/docs/reference/functions/createReplayStream)
+  * [ embedding core ](https://tanstack.com/ai/latest/docs/reference/functions/embedding)
+  * [ generateMessageId core ](https://tanstack.com/ai/latest/docs/reference/functions/generateMessageId)
+  * [ maxIterations core ](https://tanstack.com/ai/latest/docs/reference/functions/maxIterations)
+  * [ messages core ](https://tanstack.com/ai/latest/docs/reference/functions/messages)
+  * [ modelMessageToUIMessage core ](https://tanstack.com/ai/latest/docs/reference/functions/modelMessageToUIMessage)
+  * [ modelMessagesToUIMessages core ](https://tanstack.com/ai/latest/docs/reference/functions/modelMessagesToUIMessages)
+  * [ normalizeToUIMessage core ](https://tanstack.com/ai/latest/docs/reference/functions/normalizeToUIMessage)
+  * [ parsePartialJSON core ](https://tanstack.com/ai/latest/docs/reference/functions/parsePartialJSON)
+  * [ summarize core ](https://tanstack.com/ai/latest/docs/reference/functions/summarize)
+  * [ toServerSentEventsStream core ](https://tanstack.com/ai/latest/docs/reference/functions/toServerSentEventsStream)
+  * [ toStreamResponse core ](https://tanstack.com/ai/latest/docs/reference/functions/toStreamResponse)
+  * [ toolDefinition core ](https://tanstack.com/ai/latest/docs/reference/functions/toolDefinition)
+  * [ uiMessageToModelMessages core ](https://tanstack.com/ai/latest/docs/reference/functions/uiMessageToModelMessages)
+  * [ untilFinishReason core ](https://tanstack.com/ai/latest/docs/reference/functions/untilFinishReason)
+
+Interface References
+  * [ AIAdapter core ](https://tanstack.com/ai/latest/docs/reference/interfaces/AIAdapter)
+  * [ AIAdapterConfig core ](https://tanstack.com/ai/latest/docs/reference/interfaces/AIAdapterConfig)
+  * [ AgentLoopState core ](https://tanstack.com/ai/latest/docs/reference/interfaces/AgentLoopState)
+  * [ ApprovalRequestedStreamChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ApprovalRequestedStreamChunk)
+  * [ AudioPart core ](https://tanstack.com/ai/latest/docs/reference/interfaces/AudioPart)
+  * [ BaseStreamChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/BaseStreamChunk)
+  * [ ChatCompletionChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ChatCompletionChunk)
+  * [ ChatOptions core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ChatOptions)
+  * [ ChunkRecording core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ChunkRecording)
+  * [ ChunkStrategy core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ChunkStrategy)
+  * [ ClientTool core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ClientTool)
+  * [ ContentPartSource core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ContentPartSource)
+  * [ ContentStreamChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ContentStreamChunk)
+  * [ DefaultMessageMetadataByModality core ](https://tanstack.com/ai/latest/docs/reference/interfaces/DefaultMessageMetadataByModality)
+  * [ DocumentPart core ](https://tanstack.com/ai/latest/docs/reference/interfaces/DocumentPart)
+  * [ DoneStreamChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/DoneStreamChunk)
+  * [ EmbeddingOptions core ](https://tanstack.com/ai/latest/docs/reference/interfaces/EmbeddingOptions)
+  * [ EmbeddingResult core ](https://tanstack.com/ai/latest/docs/reference/interfaces/EmbeddingResult)
+  * [ ErrorStreamChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ErrorStreamChunk)
+  * [ ImagePart core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ImagePart)
+  * [ InternalToolCallState core ](https://tanstack.com/ai/latest/docs/reference/interfaces/InternalToolCallState)
+  * [ JSONParser core ](https://tanstack.com/ai/latest/docs/reference/interfaces/JSONParser)
+  * [ ModelMessage core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ModelMessage)
+  * [ ProcessorResult core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ProcessorResult)
+  * [ ProcessorState core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ProcessorState)
+  * [ ResponseFormat core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ResponseFormat)
+  * [ ServerTool core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ServerTool)
+  * [ StreamProcessorEvents core ](https://tanstack.com/ai/latest/docs/reference/interfaces/StreamProcessorEvents)
+  * [ StreamProcessorHandlers core ](https://tanstack.com/ai/latest/docs/reference/interfaces/StreamProcessorHandlers)
+  * [ StreamProcessorOptions core ](https://tanstack.com/ai/latest/docs/reference/interfaces/StreamProcessorOptions)
+  * [ SummarizationOptions core ](https://tanstack.com/ai/latest/docs/reference/interfaces/SummarizationOptions)
+  * [ SummarizationResult core ](https://tanstack.com/ai/latest/docs/reference/interfaces/SummarizationResult)
+  * [ TextPart core ](https://tanstack.com/ai/latest/docs/reference/interfaces/TextPart)
+  * [ ThinkingPart core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ThinkingPart)
+  * [ ThinkingStreamChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ThinkingStreamChunk)
+  * [ Tool core ](https://tanstack.com/ai/latest/docs/reference/interfaces/Tool)
+  * [ ToolCall core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolCall)
+  * [ ToolCallPart core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolCallPart)
+  * [ ToolCallStreamChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolCallStreamChunk)
+  * [ ToolConfig core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolConfig)
+  * [ ToolDefinition core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolDefinition)
+  * [ ToolDefinitionConfig core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolDefinitionConfig)
+  * [ ToolDefinitionInstance core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolDefinitionInstance)
+  * [ ToolInputAvailableStreamChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolInputAvailableStreamChunk)
+  * [ ToolResultPart core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolResultPart)
+  * [ ToolResultStreamChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolResultStreamChunk)
+  * [ UIMessage core ](https://tanstack.com/ai/latest/docs/reference/interfaces/UIMessage)
+  * [ VideoPart core ](https://tanstack.com/ai/latest/docs/reference/interfaces/VideoPart)
+
+Type Alias References
+  * [ AgentLoopStrategy core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/AgentLoopStrategy)
+  * [ AnyClientTool core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/AnyClientTool)
+  * [ ChatStreamOptionsForModel core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ChatStreamOptionsForModel)
+  * [ ChatStreamOptionsUnion core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ChatStreamOptionsUnion)
+  * [ ConstrainedContent core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ConstrainedContent)
+  * [ ConstrainedModelMessage core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ConstrainedModelMessage)
+  * [ ContentPart core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ContentPart)
+  * [ ContentPartForModalities core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ContentPartForModalities)
+  * [ ExtractModalitiesForModel core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ExtractModalitiesForModel)
+  * [ ExtractModelsFromAdapter core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ExtractModelsFromAdapter)
+  * [ InferToolInput core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/InferToolInput)
+  * [ InferToolName core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/InferToolName)
+  * [ InferToolOutput core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/InferToolOutput)
+  * [ MessagePart core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/MessagePart)
+  * [ ModalitiesArrayToUnion core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ModalitiesArrayToUnion)
+  * [ Modality core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/Modality)
+  * [ StreamChunk core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/StreamChunk)
+  * [ StreamChunkType core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/StreamChunkType)
+  * [ ToolCallState core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ToolCallState)
+  * [ ToolResultState core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ToolResultState)
+
+Variable References
+  * [ aiEventClient core ](https://tanstack.com/ai/latest/docs/reference/variables/aiEventClient)
+  * [ defaultJSONParser core ](https://tanstack.com/ai/latest/docs/reference/variables/defaultJSONParser)
+
+
+Framework
+![React logo](data:image/svg+xml,%3csvg%20viewBox='-11.5%20-10.23%2023%2020.46'%20xmlns='http://www.w3.org/2000/svg'%3e%3ccircle%20fill='%2361dafb'%20r='2.05'/%3e%3cg%20fill='none'%20stroke='%2361dafb'%3e%3cellipse%20rx='11'%20ry='4.2'/%3e%3cellipse%20rx='11'%20ry='4.2'%20transform='matrix\(.5%20.8660254%20-.8660254%20.5%200%200\)'/%3e%3cellipse%20rx='11'%20ry='4.2'%20transform='matrix\(-.5%20.8660254%20-.8660254%20-.5%200%200\)'/%3e%3c/g%3e%3c/svg%3e)React
+Version
+Latest
+Menu
+  * [Home](https://tanstack.com/ai/latest)
+  * [Frameworks](https://tanstack.com/ai/latest/docs/framework)
+  * [Contributors](https://tanstack.com/ai/latest/docs/contributors)
+  * [GitHub ](https://github.com/tanstack/ai)
+  * [Discord ](https://tlinz.com/discord)
+
+
+Getting Started
+  * [ Overview core ](https://tanstack.com/ai/latest/docs/getting-started/overview)
+  * [ Quick Start core ](https://tanstack.com/ai/latest/docs/getting-started/quick-start)
+  * [ Devtools core ](https://tanstack.com/ai/latest/docs/getting-started/devtools)
+
+
+Guides
+  * [ Tools core ](https://tanstack.com/ai/latest/docs/guides/tools)
+  * [ Tool Architecture core ](https://tanstack.com/ai/latest/docs/guides/tool-architecture)
+  * [ Server Tools core ](https://tanstack.com/ai/latest/docs/guides/server-tools)
+  * [ Client Tools core ](https://tanstack.com/ai/latest/docs/guides/client-tools)
+  * [ Agentic Cycle core ](https://tanstack.com/ai/latest/docs/guides/agentic-cycle)
+  * [ Tool Approval Flow core ](https://tanstack.com/ai/latest/docs/guides/tool-approval)
+  * [ Streaming core ](https://tanstack.com/ai/latest/docs/guides/streaming)
+  * [ Multimodal Content core ](https://tanstack.com/ai/latest/docs/guides/multimodal-content)
+  * [ Connection Adapters core ](https://tanstack.com/ai/latest/docs/guides/connection-adapters)
+  * [ Observability core ](https://tanstack.com/ai/latest/docs/guides/observability)
+  * [ Per-Model Type Safety core ](https://tanstack.com/ai/latest/docs/guides/per-model-type-safety)
+
+
+API
+  * [ @tanstack/ai core ](https://tanstack.com/ai/latest/docs/api/ai)
+  * [ @tanstack/ai-client core ](https://tanstack.com/ai/latest/docs/api/ai-client)
+  * [ @tanstack/ai-react core ](https://tanstack.com/ai/latest/docs/api/ai-react)
+  * [ @tanstack/ai-solid core ](https://tanstack.com/ai/latest/docs/api/ai-solid)
+
+
+Adapters
+  * [ OpenAI core ](https://tanstack.com/ai/latest/docs/adapters/openai)
+  * [ Anthropic core ](https://tanstack.com/ai/latest/docs/adapters/anthropic)
+  * [ Google Gemini core ](https://tanstack.com/ai/latest/docs/adapters/gemini)
+  * [ Ollama core ](https://tanstack.com/ai/latest/docs/adapters/ollama)
+
+
+Class References
+  * [ BaseAdapter core ](https://tanstack.com/ai/latest/docs/reference/classes/BaseAdapter)
+  * [ BatchStrategy core ](https://tanstack.com/ai/latest/docs/reference/classes/BatchStrategy)
+  * [ CompositeStrategy core ](https://tanstack.com/ai/latest/docs/reference/classes/CompositeStrategy)
+  * [ ImmediateStrategy core ](https://tanstack.com/ai/latest/docs/reference/classes/ImmediateStrategy)
+  * [ PartialJSONParser core ](https://tanstack.com/ai/latest/docs/reference/classes/PartialJSONParser)
+  * [ PunctuationStrategy core ](https://tanstack.com/ai/latest/docs/reference/classes/PunctuationStrategy)
+  * [ StreamProcessor core ](https://tanstack.com/ai/latest/docs/reference/classes/StreamProcessor)
+  * [ ToolCallManager core ](https://tanstack.com/ai/latest/docs/reference/classes/ToolCallManager)
+  * [ WordBoundaryStrategy core ](https://tanstack.com/ai/latest/docs/reference/classes/WordBoundaryStrategy)
+
+Function References
+  * [ chat core ](https://tanstack.com/ai/latest/docs/reference/functions/chat)
+  * [ chatOptions core ](https://tanstack.com/ai/latest/docs/reference/functions/chatOptions)
+  * [ combineStrategies core ](https://tanstack.com/ai/latest/docs/reference/functions/combineStrategies)
+  * [ convertMessagesToModelMessages core ](https://tanstack.com/ai/latest/docs/reference/functions/convertMessagesToModelMessages)
+  * [ convertZodToJsonSchema core ](https://tanstack.com/ai/latest/docs/reference/functions/convertZodToJsonSchema)
+  * [ createReplayStream core ](https://tanstack.com/ai/latest/docs/reference/functions/createReplayStream)
+  * [ embedding core ](https://tanstack.com/ai/latest/docs/reference/functions/embedding)
+  * [ generateMessageId core ](https://tanstack.com/ai/latest/docs/reference/functions/generateMessageId)
+  * [ maxIterations core ](https://tanstack.com/ai/latest/docs/reference/functions/maxIterations)
+  * [ messages core ](https://tanstack.com/ai/latest/docs/reference/functions/messages)
+  * [ modelMessageToUIMessage core ](https://tanstack.com/ai/latest/docs/reference/functions/modelMessageToUIMessage)
+  * [ modelMessagesToUIMessages core ](https://tanstack.com/ai/latest/docs/reference/functions/modelMessagesToUIMessages)
+  * [ normalizeToUIMessage core ](https://tanstack.com/ai/latest/docs/reference/functions/normalizeToUIMessage)
+  * [ parsePartialJSON core ](https://tanstack.com/ai/latest/docs/reference/functions/parsePartialJSON)
+  * [ summarize core ](https://tanstack.com/ai/latest/docs/reference/functions/summarize)
+  * [ toServerSentEventsStream core ](https://tanstack.com/ai/latest/docs/reference/functions/toServerSentEventsStream)
+  * [ toStreamResponse core ](https://tanstack.com/ai/latest/docs/reference/functions/toStreamResponse)
+  * [ toolDefinition core ](https://tanstack.com/ai/latest/docs/reference/functions/toolDefinition)
+  * [ uiMessageToModelMessages core ](https://tanstack.com/ai/latest/docs/reference/functions/uiMessageToModelMessages)
+  * [ untilFinishReason core ](https://tanstack.com/ai/latest/docs/reference/functions/untilFinishReason)
+
+Interface References
+  * [ AIAdapter core ](https://tanstack.com/ai/latest/docs/reference/interfaces/AIAdapter)
+  * [ AIAdapterConfig core ](https://tanstack.com/ai/latest/docs/reference/interfaces/AIAdapterConfig)
+  * [ AgentLoopState core ](https://tanstack.com/ai/latest/docs/reference/interfaces/AgentLoopState)
+  * [ ApprovalRequestedStreamChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ApprovalRequestedStreamChunk)
+  * [ AudioPart core ](https://tanstack.com/ai/latest/docs/reference/interfaces/AudioPart)
+  * [ BaseStreamChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/BaseStreamChunk)
+  * [ ChatCompletionChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ChatCompletionChunk)
+  * [ ChatOptions core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ChatOptions)
+  * [ ChunkRecording core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ChunkRecording)
+  * [ ChunkStrategy core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ChunkStrategy)
+  * [ ClientTool core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ClientTool)
+  * [ ContentPartSource core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ContentPartSource)
+  * [ ContentStreamChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ContentStreamChunk)
+  * [ DefaultMessageMetadataByModality core ](https://tanstack.com/ai/latest/docs/reference/interfaces/DefaultMessageMetadataByModality)
+  * [ DocumentPart core ](https://tanstack.com/ai/latest/docs/reference/interfaces/DocumentPart)
+  * [ DoneStreamChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/DoneStreamChunk)
+  * [ EmbeddingOptions core ](https://tanstack.com/ai/latest/docs/reference/interfaces/EmbeddingOptions)
+  * [ EmbeddingResult core ](https://tanstack.com/ai/latest/docs/reference/interfaces/EmbeddingResult)
+  * [ ErrorStreamChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ErrorStreamChunk)
+  * [ ImagePart core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ImagePart)
+  * [ InternalToolCallState core ](https://tanstack.com/ai/latest/docs/reference/interfaces/InternalToolCallState)
+  * [ JSONParser core ](https://tanstack.com/ai/latest/docs/reference/interfaces/JSONParser)
+  * [ ModelMessage core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ModelMessage)
+  * [ ProcessorResult core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ProcessorResult)
+  * [ ProcessorState core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ProcessorState)
+  * [ ResponseFormat core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ResponseFormat)
+  * [ ServerTool core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ServerTool)
+  * [ StreamProcessorEvents core ](https://tanstack.com/ai/latest/docs/reference/interfaces/StreamProcessorEvents)
+  * [ StreamProcessorHandlers core ](https://tanstack.com/ai/latest/docs/reference/interfaces/StreamProcessorHandlers)
+  * [ StreamProcessorOptions core ](https://tanstack.com/ai/latest/docs/reference/interfaces/StreamProcessorOptions)
+  * [ SummarizationOptions core ](https://tanstack.com/ai/latest/docs/reference/interfaces/SummarizationOptions)
+  * [ SummarizationResult core ](https://tanstack.com/ai/latest/docs/reference/interfaces/SummarizationResult)
+  * [ TextPart core ](https://tanstack.com/ai/latest/docs/reference/interfaces/TextPart)
+  * [ ThinkingPart core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ThinkingPart)
+  * [ ThinkingStreamChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ThinkingStreamChunk)
+  * [ Tool core ](https://tanstack.com/ai/latest/docs/reference/interfaces/Tool)
+  * [ ToolCall core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolCall)
+  * [ ToolCallPart core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolCallPart)
+  * [ ToolCallStreamChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolCallStreamChunk)
+  * [ ToolConfig core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolConfig)
+  * [ ToolDefinition core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolDefinition)
+  * [ ToolDefinitionConfig core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolDefinitionConfig)
+  * [ ToolDefinitionInstance core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolDefinitionInstance)
+  * [ ToolInputAvailableStreamChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolInputAvailableStreamChunk)
+  * [ ToolResultPart core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolResultPart)
+  * [ ToolResultStreamChunk core ](https://tanstack.com/ai/latest/docs/reference/interfaces/ToolResultStreamChunk)
+  * [ UIMessage core ](https://tanstack.com/ai/latest/docs/reference/interfaces/UIMessage)
+  * [ VideoPart core ](https://tanstack.com/ai/latest/docs/reference/interfaces/VideoPart)
+
+Type Alias References
+  * [ AgentLoopStrategy core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/AgentLoopStrategy)
+  * [ AnyClientTool core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/AnyClientTool)
+  * [ ChatStreamOptionsForModel core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ChatStreamOptionsForModel)
+  * [ ChatStreamOptionsUnion core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ChatStreamOptionsUnion)
+  * [ ConstrainedContent core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ConstrainedContent)
+  * [ ConstrainedModelMessage core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ConstrainedModelMessage)
+  * [ ContentPart core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ContentPart)
+  * [ ContentPartForModalities core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ContentPartForModalities)
+  * [ ExtractModalitiesForModel core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ExtractModalitiesForModel)
+  * [ ExtractModelsFromAdapter core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ExtractModelsFromAdapter)
+  * [ InferToolInput core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/InferToolInput)
+  * [ InferToolName core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/InferToolName)
+  * [ InferToolOutput core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/InferToolOutput)
+  * [ MessagePart core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/MessagePart)
+  * [ ModalitiesArrayToUnion core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ModalitiesArrayToUnion)
+  * [ Modality core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/Modality)
+  * [ StreamChunk core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/StreamChunk)
+  * [ StreamChunkType core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/StreamChunkType)
+  * [ ToolCallState core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ToolCallState)
+  * [ ToolResultState core ](https://tanstack.com/ai/latest/docs/reference/type-aliases/ToolResultState)
+
+Variable References
+  * [ aiEventClient core ](https://tanstack.com/ai/latest/docs/reference/variables/aiEventClient)
+  * [ defaultJSONParser core ](https://tanstack.com/ai/latest/docs/reference/variables/defaultJSONParser)
+
+
+On this page
+  * [Installation](https://tanstack.com/ai/latest/docs/adapters/ollama#installation)
+  * [Basic Usage](https://tanstack.com/ai/latest/docs/adapters/ollama#basic-usage)
+  * [Configuration](https://tanstack.com/ai/latest/docs/adapters/ollama#configuration)
+  * [Available Models](https://tanstack.com/ai/latest/docs/adapters/ollama#available-models)
+  * [Example: Chat Completion](https://tanstack.com/ai/latest/docs/adapters/ollama#example-chat-completion)
+  * [Example: With Tools](https://tanstack.com/ai/latest/docs/adapters/ollama#example-with-tools)
+  * [Setting Up Ollama](https://tanstack.com/ai/latest/docs/adapters/ollama#setting-up-ollama)
+  * [Provider Options](https://tanstack.com/ai/latest/docs/adapters/ollama#provider-options)
+  * [Custom Ollama Server](https://tanstack.com/ai/latest/docs/adapters/ollama#custom-ollama-server)
+  * [API Reference](https://tanstack.com/ai/latest/docs/adapters/ollama#api-reference)
+  * [ollama(config)](https://tanstack.com/ai/latest/docs/adapters/ollama#ollamaconfig)
+  * [Benefits of Ollama](https://tanstack.com/ai/latest/docs/adapters/ollama#benefits-of-ollama)
+  * [Next Steps](https://tanstack.com/ai/latest/docs/adapters/ollama#next-steps)
+
+
+[Learn about TanStack Ads](https://tanstack.com/ads)[Hide Ads](https://tanstack.com/ads#hide-ads)
+# Ollama Adapter
+The Ollama adapter provides access to local models running via Ollama, allowing you to run AI models on your own infrastructure.
+## [Installation](https://tanstack.com/ai/latest/docs/adapters/ollama#installation)
+bash
+```
+npm install @tanstack/ai-ollama
+
+```
+```
+npm install @tanstack/ai-ollama
+
+```
+
+## [Basic Usage](https://tanstack.com/ai/latest/docs/adapters/ollama#basic-usage)
+typescript
+```
+import { chat } from "@tanstack/ai";
+import { ollama } from "@tanstack/ai-ollama";
+
+const adapter = ollama({
+  baseURL: "http://localhost:11434", // Default Ollama URL
+});
+
+const stream = chat({
+  adapter,
+  messages: [{ role: "user", content: "Hello!" }],
+  model: "llama3",
+});
+
+```
+```
+import { chat } from "@tanstack/ai";
+import { ollama } from "@tanstack/ai-ollama";
+
+const adapter = ollama({
+  baseURL: "http://localhost:11434", // Default Ollama URL
+});
+
+const stream = chat({
+  adapter,
+  messages: [{ role: "user", content: "Hello!" }],
+  model: "llama3",
+});
+
+```
+
+## [Configuration](https://tanstack.com/ai/latest/docs/adapters/ollama#configuration)
+typescript
+```
+import { ollama, type OllamaConfig } from "@tanstack/ai-ollama";
+
+const config: OllamaConfig = {
+  baseURL: "http://localhost:11434", // Ollama server URL
+  // No API key needed for local Ollama
+};
+
+const adapter = ollama(config);
+
+```
+```
+import { ollama, type OllamaConfig } from "@tanstack/ai-ollama";
+
+const config: OllamaConfig = {
+  baseURL: "http://localhost:11434", // Ollama server URL
+  // No API key needed for local Ollama
+};
+
+const adapter = ollama(config);
+
+```
+
+## [Available Models](https://tanstack.com/ai/latest/docs/adapters/ollama#available-models)
+To see available models, run:
+bash
+```
+ollama list
+
+```
+```
+ollama list
+
+```
+
+## [Example: Chat Completion](https://tanstack.com/ai/latest/docs/adapters/ollama#example-chat-completion)
+typescript
+```
+import { chat, toStreamResponse } from "@tanstack/ai";
+import { ollama } from "@tanstack/ai-ollama";
+
+const adapter = ollama({
+  baseURL: "http://localhost:11434",
+});
+
+export async function POST(request: Request) {
+  const { messages } = await request.json();
+
+  const stream = chat({
+    adapter,
+    messages,
+    model: "llama3", // Use a model you have installed
+  });
+
+  return toStreamResponse(stream);
+}
+
+```
+```
+import { chat, toStreamResponse } from "@tanstack/ai";
+import { ollama } from "@tanstack/ai-ollama";
+
+const adapter = ollama({
+  baseURL: "http://localhost:11434",
+});
+
+export async function POST(request: Request) {
+  const { messages } = await request.json();
+
+  const stream = chat({
+    adapter,
+    messages,
+    model: "llama3", // Use a model you have installed
+  });
+
+  return toStreamResponse(stream);
+}
+
+```
+
+## [Example: With Tools](https://tanstack.com/ai/latest/docs/adapters/ollama#example-with-tools)
+typescript
+```
+import { chat, toolDefinition } from "@tanstack/ai";
+import { ollama } from "@tanstack/ai-ollama";
+import { z } from "zod";
+
+const adapter = ollama({
+  baseURL: "http://localhost:11434",
+});
+
+const getLocalDataDef = toolDefinition({
+  name: "get_local_data",
+  description: "Get data from local storage",
+  inputSchema: z.object({
+    key: z.string(),
+  }),
+});
+
+const getLocalData = getLocalDataDef.server(async ({ key }) => {
+  // Access local data
+  return { data: "..." };
+});
+
+const stream = chat({
+  adapter,
+  messages,
+  model: "llama3",
+  tools: [getLocalData],
+});
+
+```
+```
+import { chat, toolDefinition } from "@tanstack/ai";
+import { ollama } from "@tanstack/ai-ollama";
+import { z } from "zod";
+
+const adapter = ollama({
+  baseURL: "http://localhost:11434",
+});
+
+const getLocalDataDef = toolDefinition({
+  name: "get_local_data",
+  description: "Get data from local storage",
+  inputSchema: z.object({
+    key: z.string(),
+  }),
+});
+
+const getLocalData = getLocalDataDef.server(async ({ key }) => {
+  // Access local data
+  return { data: "..." };
+});
+
+const stream = chat({
+  adapter,
+  messages,
+  model: "llama3",
+  tools: [getLocalData],
+});
+
+```
+
+## [Setting Up Ollama](https://tanstack.com/ai/latest/docs/adapters/ollama#setting-up-ollama)
+  1. **Install Ollama:**
+bash
+```
+# macOS
+brew install ollama
+
+# Linux
+curl -fsSL https://ollama.com/install.sh | sh
+
+# Windows
+# Download from https://ollama.com
+
+```
+```
+# macOS
+brew install ollama
+
+# Linux
+curl -fsSL https://ollama.com/install.sh | sh
+
+# Windows
+# Download from https://ollama.com
+
+```
+
+  2. **Pull a model:**
+bash
+```
+ollama pull llama3
+
+```
+```
+ollama pull llama3
+
+```
+
+  3. **Start Ollama server:**
+bash
+```
+ollama serve
+
+```
+```
+ollama serve
+
+```
+
+
+## [Provider Options](https://tanstack.com/ai/latest/docs/adapters/ollama#provider-options)
+Ollama supports various provider-specific options:
+typescript
+```
+const stream = chat({
+  adapter: ollama({ baseURL: "http://localhost:11434" }),
+  messages,
+  model: "llama3",
+  providerOptions: {
+    temperature: 0.7,
+    numPredict: 1000,
+    topP: 0.9,
+    topK: 40,
+  },
+});
+
+```
+```
+const stream = chat({
+  adapter: ollama({ baseURL: "http://localhost:11434" }),
+  messages,
+  model: "llama3",
+  providerOptions: {
+    temperature: 0.7,
+    numPredict: 1000,
+    topP: 0.9,
+    topK: 40,
+  },
+});
+
+```
+
+## [Custom Ollama Server](https://tanstack.com/ai/latest/docs/adapters/ollama#custom-ollama-server)
+If you're running Ollama on a different host or port:
+typescript
+```
+const adapter = ollama({
+  baseURL: "http://your-server:11434",
+});
+
+```
+```
+const adapter = ollama({
+  baseURL: "http://your-server:11434",
+});
+
+```
+
+## [API Reference](https://tanstack.com/ai/latest/docs/adapters/ollama#api-reference) ### [ollama(config)](https://tanstack.com/ai/latest/docs/adapters/ollama#ollamaconfig)
+Creates an Ollama adapter instance.
+**Parameters:**
+  * config.baseURL - Ollama server URL (default: http://localhost:11434)
+
+
+**Returns:** An Ollama adapter instance.
+## [Benefits of Ollama](https://tanstack.com/ai/latest/docs/adapters/ollama#benefits-of-ollama)
+  * ✅ **Privacy** - Data stays on your infrastructure
+  * ✅ **Cost** - No API costs
+  * ✅ **Customization** - Use any compatible model
+  * ✅ **Offline** - Works without internet
+
+## [Next Steps](https://tanstack.com/ai/latest/docs/adapters/ollama#next-steps)
+  * [Getting Started](https://tanstack.com/ai/latest/docs/getting-started/quick-start) - Learn the basics
+  * [Tools Guide](https://tanstack.com/ai/latest/docs/guides/tools) - Learn about tools
+  * [Other Adapters](https://tanstack.com/ai/latest/docs/adapters/openai) - Explore other providers
+
+
+[](https://github.com/tanstack/ai/edit/main/docs/adapters/ollama.md)
+### On this page
+  * [Installation](https://tanstack.com/ai/latest/docs/adapters/ollama#installation "installation")
+  * [Basic Usage](https://tanstack.com/ai/latest/docs/adapters/ollama#basic-usage "basic-usage")
+  * [Configuration](https://tanstack.com/ai/latest/docs/adapters/ollama#configuration "configuration")
+  * [Available Models](https://tanstack.com/ai/latest/docs/adapters/ollama#available-models "available-models")
+  * [Example: Chat Completion](https://tanstack.com/ai/latest/docs/adapters/ollama#example-chat-completion "example-chat-completion")
+  * [Example: With Tools](https://tanstack.com/ai/latest/docs/adapters/ollama#example-with-tools "example-with-tools")
+  * [Setting Up Ollama](https://tanstack.com/ai/latest/docs/adapters/ollama#setting-up-ollama "setting-up-ollama")
+  * [Provider Options](https://tanstack.com/ai/latest/docs/adapters/ollama#provider-options "provider-options")
+  * [Custom Ollama Server](https://tanstack.com/ai/latest/docs/adapters/ollama#custom-ollama-server "custom-ollama-server")
+  * [API Reference](https://tanstack.com/ai/latest/docs/adapters/ollama#api-reference "api-reference")
+  * [ollama(config)](https://tanstack.com/ai/latest/docs/adapters/ollama#ollamaconfig "ollamaconfig")
+  * [Benefits of Ollama](https://tanstack.com/ai/latest/docs/adapters/ollama#benefits-of-ollama "benefits-of-ollama")
+  * [Next Steps](https://tanstack.com/ai/latest/docs/adapters/ollama#next-steps "next-steps")
+
+
+[Learn about TanStack Ads](https://tanstack.com/ads)[Hide Ads](https://tanstack.com/ads#hide-ads)
+[](https://tanstack.com/ai/latest/docs/adapters/gemini)
+[ BaseAdapter ](https://tanstack.com/ai/latest/docs/reference/classes/BaseAdapter)
+[Partners](https://tanstack.com/partners)[Become a Partner](https://docs.google.com/document/d/1Hg2MzY2TU6U3hFEZ3MLe2oEOM3JS4-eByti3kdJU3I8)
+[ ![Code Rabbit](https://tanstack.com/assets/coderabbit-light-DVMJ2jHi.svg)![Code Rabbit](https://tanstack.com/assets/coderabbit-dark-CMcuvjEy.svg) ](https://coderabbit.link/tanstack?utm_source=tanstack&via=tanstack)[ ![Cloudflare](https://tanstack.com/assets/cloudflare-black-CPufaW0B.svg)![Cloudflare](https://tanstack.com/assets/cloudflare-white-DQDB7UaL.svg) ](https://www.cloudflare.com?utm_source=tanstack)[ ![AG Grid](data:image/svg+xml,%3csvg%20clip-rule='evenodd'%20fill-rule='evenodd'%20stroke-linejoin='round'%20stroke-miterlimit='2'%20viewBox='0%200%20235%2040'%20xmlns='http://www.w3.org/2000/svg'%3e%3cg%20transform='matrix\(.635723%200%200%20.635723%20-492.921%20-323.608\)'%3e%3cg%20fill-rule='nonzero'%3e%3cpath%20d='m1099.4%20549.4v-12.5h-21.3l-12.5%2012.5z'%20fill='%23ff8b00'/%3e%3cpath%20d='m1123.4%20518.4h-26.7l-12.6%2012.5h39.3z'%20fill='%2355b2c6'/%3e%3cpath%20d='m1053.2%20561.9%206.4-6.4h21.6v12.5h-28z'%20fill='%23f00'/%3e%3cpath%20d='m1057.9%20543.3h13.8l12.6-12.5h-26.4z'%20fill='%23b4bbbf'/%3e%3cpath%20d='m1042.8%20561.9h10.4l12.4-12.5h-22.8z'%20fill='%23b4bbbf'/%3e%3cpath%20d='m1096.7%20518.4-6.4%206.4h-40.8v-12.5h47.2z'%20fill='%23b4bbbf'/%3e%3cpath%20d='m828.6%20559.7h-19.6l-3.4%208.4h-8.6l18.1-42.4h7.5l18.1%2042.4h-8.7zm-2.7-6.7-7.1-17.3-7.1%2017.3z'%20fill='%23031c4c'/%3e%3cpath%20d='m960.1%20541.3c2.5-3.7%208.8-4.1%2011.4-4.1v7.2c-3.2%200-6.4.1-8.3%201.5s-2.9%203.3-2.9%205.6v16.6h-7.8v-30.9h7.5z'%20fill='%23031c4c'/%3e%3c/g%3e%3cpath%20d='m975.8%20537.2h7.8v30.9h-7.8z'%20fill='%23031c4c'/%3e%3cpath%20d='m975.8%20523.4h7.8v9.2h-7.8z'%20fill='%23031c4c'/%3e%3cpath%20d='m1022.3%20523.4v44.7h-7.5l-.2-4.7c-1.1%201.6-2.5%202.9-4.2%203.9-1.7.9-3.8%201.4-6.2%201.4-2.1%200-4.1-.4-5.8-1.1-1.8-.8-3.4-1.8-4.7-3.2s-2.4-3.1-3.1-5c-.8-1.9-1.1-4.1-1.1-6.5s.4-4.6%201.1-6.6c.8-2%201.8-3.7%203.1-5.1s2.9-2.5%204.7-3.3%203.7-1.2%205.8-1.2c2.4%200%204.4.4%206.1%201.3s3.1%202.1%204.2%203.8v-18.3h7.8zm-16.4%2038.6c2.6%200%204.6-.9%206.2-2.6s2.4-4%202.4-6.8-.8-5-2.4-6.8c-1.6-1.7-3.6-2.6-6.2-2.6-2.5%200-4.6.9-6.1%202.6-1.6%201.7-2.4%204-2.4%206.8s.8%205%202.4%206.7c1.6%201.8%203.6%202.7%206.1%202.7'%20fill='%23031c4c'%20fill-rule='nonzero'/%3e%3cpath%20d='m885.8%20544.2h-19.3v6.7h11c-.3%203.4-1.6%206-3.8%208.1-2.2%202-5%203-8.6%203-2%200-3.9-.4-5.5-1.1-1.7-.7-3.1-1.7-4.3-3.1-1.2-1.3-2.1-2.9-2.8-4.8s-1-3.9-1-6.2.3-4.3%201-6.2c.6-1.9%201.6-3.4%202.8-4.8%201.2-1.3%202.6-2.3%204.3-3.1%201.7-.7%203.5-1.1%205.6-1.1%204.2%200%207.4%201%209.6%203l5.2-5.2c-3.9-3-8.9-4.6-14.8-4.6-3.3%200-6.3.5-9%201.6s-5%202.5-6.9%204.4-3.4%204.2-4.4%206.9-1.5%205.7-1.5%208.9.5%206.2%201.6%208.9%202.5%205%204.4%206.9%204.2%203.4%206.9%204.4c2.7%201.1%205.7%201.6%208.9%201.6s6.1-.5%208.7-1.6%204.8-2.5%206.6-4.4%203.2-4.2%204.2-6.9%201.5-5.7%201.5-8.9v-1.3c-.3-.2-.4-.7-.4-1.1'%20fill='%23031c4c'%20fill-rule='nonzero'/%3e%3cpath%20d='m946.8%20544.2h-19.3v6.7h11c-.3%203.4-1.6%206-3.8%208.1-2.2%202-5%203-8.6%203-2%200-3.9-.4-5.5-1.1-1.7-.7-3.1-1.7-4.3-3.1-1.2-1.3-2.1-2.9-2.8-4.8s-1-3.9-1-6.2.3-4.3%201-6.2c.6-1.9%201.6-3.4%202.8-4.8%201.2-1.3%202.6-2.3%204.3-3.1%201.7-.7%203.5-1.1%205.6-1.1%204.2%200%207.4%201%209.6%203l5.2-5.2c-3.9-3-8.9-4.6-14.8-4.6-3.3%200-6.3.5-9%201.6s-5%202.5-6.9%204.4-3.4%204.2-4.4%206.9-1.5%205.7-1.5%208.9.5%206.2%201.6%208.9%202.5%205%204.4%206.9%204.2%203.4%206.9%204.4c2.7%201.1%205.7%201.6%208.9%201.6s6.1-.5%208.7-1.6%204.8-2.5%206.6-4.4%203.2-4.2%204.2-6.9%201.5-5.7%201.5-8.9v-1.3c-.3-.2-.4-.7-.4-1.1'%20fill='%23031c4c'%20fill-rule='nonzero'/%3e%3c/g%3e%3c/svg%3e)![AG Grid](data:image/svg+xml,%3csvg%20clip-rule='evenodd'%20fill-rule='evenodd'%20stroke-linejoin='round'%20stroke-miterlimit='2'%20viewBox='0%200%20235%2040'%20xmlns='http://www.w3.org/2000/svg'%3e%3cg%20transform='matrix\(.635723%200%200%20.635723%20-492.921%20-323.608\)'%3e%3cg%20fill-rule='nonzero'%3e%3cpath%20d='m1099.4%20549.4v-12.5h-21.3l-12.5%2012.5z'%20fill='%23ff8b00'/%3e%3cpath%20d='m1123.4%20518.4h-26.7l-12.6%2012.5h39.3z'%20fill='%2355b2c6'/%3e%3cpath%20d='m1053.2%20561.9%206.4-6.4h21.6v12.5h-28z'%20fill='%23f00'/%3e%3cpath%20d='m1057.9%20543.3h13.8l12.6-12.5h-26.4z'%20fill='%23b4bbbf'/%3e%3cpath%20d='m1042.8%20561.9h10.4l12.4-12.5h-22.8z'%20fill='%23b4bbbf'/%3e%3cpath%20d='m1096.7%20518.4-6.4%206.4h-40.8v-12.5h47.2z'%20fill='%23b4bbbf'/%3e%3cpath%20d='m828.6%20559.7h-19.6l-3.4%208.4h-8.6l18.1-42.4h7.5l18.1%2042.4h-8.7zm-2.7-6.7-7.1-17.3-7.1%2017.3z'%20fill='%23fff'/%3e%3cpath%20d='m960.1%20541.3c2.5-3.7%208.8-4.1%2011.4-4.1v7.2c-3.2%200-6.4.1-8.3%201.5s-2.9%203.3-2.9%205.6v16.6h-7.8v-30.9h7.5z'%20fill='%23fff'/%3e%3c/g%3e%3cpath%20d='m975.8%20537.2h7.8v30.9h-7.8z'%20fill='%23fff'/%3e%3cpath%20d='m975.8%20523.4h7.8v9.2h-7.8z'%20fill='%23fff'/%3e%3cpath%20d='m1022.3%20523.4v44.7h-7.5l-.2-4.7c-1.1%201.6-2.5%202.9-4.2%203.9-1.7.9-3.8%201.4-6.2%201.4-2.1%200-4.1-.4-5.8-1.1-1.8-.8-3.4-1.8-4.7-3.2s-2.4-3.1-3.1-5c-.8-1.9-1.1-4.1-1.1-6.5s.4-4.6%201.1-6.6c.8-2%201.8-3.7%203.1-5.1s2.9-2.5%204.7-3.3%203.7-1.2%205.8-1.2c2.4%200%204.4.4%206.1%201.3s3.1%202.1%204.2%203.8v-18.3h7.8zm-16.4%2038.6c2.6%200%204.6-.9%206.2-2.6s2.4-4%202.4-6.8-.8-5-2.4-6.8c-1.6-1.7-3.6-2.6-6.2-2.6-2.5%200-4.6.9-6.1%202.6-1.6%201.7-2.4%204-2.4%206.8s.8%205%202.4%206.7c1.6%201.8%203.6%202.7%206.1%202.7'%20fill='%23fff'%20fill-rule='nonzero'/%3e%3cpath%20d='m885.8%20544.2h-19.3v6.7h11c-.3%203.4-1.6%206-3.8%208.1-2.2%202-5%203-8.6%203-2%200-3.9-.4-5.5-1.1-1.7-.7-3.1-1.7-4.3-3.1-1.2-1.3-2.1-2.9-2.8-4.8s-1-3.9-1-6.2.3-4.3%201-6.2c.6-1.9%201.6-3.4%202.8-4.8%201.2-1.3%202.6-2.3%204.3-3.1%201.7-.7%203.5-1.1%205.6-1.1%204.2%200%207.4%201%209.6%203l5.2-5.2c-3.9-3-8.9-4.6-14.8-4.6-3.3%200-6.3.5-9%201.6s-5%202.5-6.9%204.4-3.4%204.2-4.4%206.9-1.5%205.7-1.5%208.9.5%206.2%201.6%208.9%202.5%205%204.4%206.9%204.2%203.4%206.9%204.4c2.7%201.1%205.7%201.6%208.9%201.6s6.1-.5%208.7-1.6%204.8-2.5%206.6-4.4%203.2-4.2%204.2-6.9%201.5-5.7%201.5-8.9v-1.3c-.3-.2-.4-.7-.4-1.1'%20fill='%23fff'%20fill-rule='nonzero'/%3e%3cpath%20d='m946.8%20544.2h-19.3v6.7h11c-.3%203.4-1.6%206-3.8%208.1-2.2%202-5%203-8.6%203-2%200-3.9-.4-5.5-1.1-1.7-.7-3.1-1.7-4.3-3.1-1.2-1.3-2.1-2.9-2.8-4.8s-1-3.9-1-6.2.3-4.3%201-6.2c.6-1.9%201.6-3.4%202.8-4.8%201.2-1.3%202.6-2.3%204.3-3.1%201.7-.7%203.5-1.1%205.6-1.1%204.2%200%207.4%201%209.6%203l5.2-5.2c-3.9-3-8.9-4.6-14.8-4.6-3.3%200-6.3.5-9%201.6s-5%202.5-6.9%204.4-3.4%204.2-4.4%206.9-1.5%205.7-1.5%208.9.5%206.2%201.6%208.9%202.5%205%204.4%206.9%204.2%203.4%206.9%204.4c2.7%201.1%205.7%201.6%208.9%201.6s6.1-.5%208.7-1.6%204.8-2.5%206.6-4.4%203.2-4.2%204.2-6.9%201.5-5.7%201.5-8.9v-1.3c-.3-.2-.4-.7-.4-1.1'%20fill='%23fff'%20fill-rule='nonzero'/%3e%3c/g%3e%3c/svg%3e) ](https://ag-grid.com/react-data-grid/?utm_source=reacttable&utm_campaign=githubreacttable)[ ![Netlify](data:image/svg+xml,%3csvg%20width='512'%20height='209'%20viewBox='0%200%20512%20209'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cg%20clip-path='url\(%23clip0_235_8\)'%3e%3cpath%20d='M117.436%20207.036V154.604L118.529%20153.51H129.452L130.545%20154.604V207.036L129.452%20208.13H118.529L117.436%20207.036Z'%20fill='%2305BDBA'/%3e%3cpath%20d='M117.436%2053.5225V1.09339L118.529%200H129.452L130.545%201.09339V53.5225L129.452%2054.6159H118.529L117.436%2053.5225Z'%20fill='%2305BDBA'/%3e%3cpath%20d='M69.9539%20169.238H68.4094L60.6869%20161.512V159.967L78.7201%20141.938L86.8976%20141.942L87.9948%20143.031V151.209L69.9539%20169.238Z'%20fill='%2305BDBA'/%3e%3cpath%20d='M69.9462%2038.8917H68.4017L60.6792%2046.6181V48.1626L78.7124%2066.192L86.8899%2066.1882L87.9871%2065.0986V56.9212L69.9462%2038.8917Z'%20fill='%2305BDBA'/%3e%3cpath%20d='M1.09339%2097.5104H75.3711L76.4645%2098.6038V109.526L75.3711%20110.62H1.09339L0%20109.526V98.6038L1.09339%2097.5104Z'%20fill='%2305BDBA'/%3e%3cpath%20d='M440.999%2097.5104H510.91L512.004%2098.6038V109.526L510.91%20110.62H436.633L435.539%20109.526L439.905%2098.6038L440.999%2097.5104Z'%20fill='%2305BDBA'/%3e%3cpath%20d='M212.056%20108.727L210.963%20109.821H177.079L175.986%20110.914C175.986%20113.101%20178.173%20119.657%20186.916%20119.657C190.196%20119.657%20193.472%20118.564%20194.566%20116.377L195.659%20115.284H208.776L209.869%20116.377C208.776%20122.934%20203.313%20132.774%20186.916%20132.774C168.336%20132.774%20159.589%20119.657%20159.589%20104.357C159.589%2089.0576%20168.332%2075.9408%20185.822%2075.9408C203.313%2075.9408%20212.056%2089.0576%20212.056%20104.357V108.731V108.727ZM195.659%2097.7971C195.659%2096.7037%20194.566%2089.0538%20185.822%2089.0538C177.079%2089.0538%20175.986%2096.7037%20175.986%2097.7971L177.079%2098.8905H194.566L195.659%2097.7971Z'%20fill='%23014847'/%3e%3cpath%20d='M242.66%20115.284C242.66%20117.47%20243.753%20118.564%20245.94%20118.564H255.776L256.87%20119.657V130.587L255.776%20131.681H245.94C236.103%20131.681%20227.36%20127.307%20227.36%20115.284V91.2368L226.266%2090.1434H218.617L217.523%2089.05V78.1199L218.617%2077.0265H226.266L227.36%2075.9332V66.0965L228.453%2065.0031H241.57L242.663%2066.0965V75.9332L243.757%2077.0265H255.78L256.874%2078.1199V89.05L255.78%2090.1434H243.757L242.663%2091.2368V115.284H242.66Z'%20fill='%23014847'/%3e%3cpath%20d='M283.1%20131.681H269.983L268.889%20130.587V56.2636L269.983%2055.1702H283.1L284.193%2056.2636V130.587L283.1%20131.681Z'%20fill='%23014847'/%3e%3cpath%20d='M312.61%2068.2871H299.493L298.399%2067.1937V56.2636L299.493%2055.1702H312.61L313.703%2056.2636V67.1937L312.61%2068.2871ZM312.61%20131.681H299.493L298.399%20130.587V78.1237L299.493%2077.0304H312.61L313.703%2078.1237V130.587L312.61%20131.681Z'%20fill='%23014847'/%3e%3cpath%20d='M363.98%2056.2636V67.1937L362.886%2068.2871H353.05C350.863%2068.2871%20349.769%2069.3805%20349.769%2071.5672V75.9408L350.863%2077.0342H361.793L362.886%2078.1276V89.0576L361.793%2090.151H350.863L349.769%2091.2444V130.591L348.676%20131.684H335.559L334.466%20130.591V91.2444L333.372%2090.151H325.723L324.629%2089.0576V78.1276L325.723%2077.0342H333.372L334.466%2075.9408V71.5672C334.466%2059.5438%20343.209%2055.1702%20353.046%2055.1702H362.882L363.976%2056.2636H363.98Z'%20fill='%23014847'/%3e%3cpath%20d='M404.42%20132.774C400.046%20143.704%20395.677%20150.261%20380.373%20150.261H374.906L373.813%20149.167V138.237L374.906%20137.144H380.373C385.836%20137.144%20386.929%20136.05%20388.023%20132.77V131.677L370.536%2089.05V78.1199L371.63%2077.0265H381.466L382.56%2078.1199L395.677%20115.284H396.77L409.887%2078.1199L410.98%2077.0265H420.817L421.91%2078.1199V89.05L404.424%20132.77L404.42%20132.774Z'%20fill='%23014847'/%3e%3cpath%20d='M135.454%20131.681L134.361%20130.587L134.368%2098.9172C134.368%2093.4541%20132.22%2089.2182%20125.625%2089.0806C122.234%2088.9926%20118.354%2089.0729%20114.209%2089.2488L113.59%2089.8834L113.598%20130.587L112.504%20131.681H99.3913L98.2979%20130.587V77.5388L99.3913%2076.4454L128.901%2076.1778C143.685%2076.1778%20149.668%2086.3356%20149.668%2097.8009V130.587L148.575%20131.681H135.454Z'%20fill='%23014847'/%3e%3c/g%3e%3cdefs%3e%3cclipPath%20id='clip0_235_8'%3e%3crect%20width='512'%20height='208.126'%20fill='white'/%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e)![Netlify](data:image/svg+xml,%3csvg%20width='512'%20height='209'%20viewBox='0%200%20512%20209'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cg%20clip-path='url\(%23clip0_235_26\)'%3e%3cpath%20d='M117.436%20207.036V154.604L118.529%20153.51H129.452L130.545%20154.604V207.036L129.452%20208.13H118.529L117.436%20207.036Z'%20fill='%2332E6E2'/%3e%3cpath%20d='M117.436%2053.5225V1.09339L118.529%200H129.452L130.545%201.09339V53.5225L129.452%2054.6159H118.529L117.436%2053.5225Z'%20fill='%2332E6E2'/%3e%3cpath%20d='M69.9539%20169.238H68.4094L60.6869%20161.512V159.967L78.7201%20141.938L86.8976%20141.942L87.9948%20143.031V151.209L69.9539%20169.238Z'%20fill='%2332E6E2'/%3e%3cpath%20d='M69.9462%2038.8917H68.4017L60.6792%2046.6181V48.1626L78.7124%2066.192L86.8899%2066.1882L87.9871%2065.0986V56.9212L69.9462%2038.8917Z'%20fill='%2332E6E2'/%3e%3cpath%20d='M1.09339%2097.5104H75.3711L76.4645%2098.6038V109.526L75.3711%20110.62H1.09339L0%20109.526V98.6038L1.09339%2097.5104Z'%20fill='%2332E6E2'/%3e%3cpath%20d='M440.999%2097.5104H510.91L512.004%2098.6038V109.526L510.91%20110.62H436.633L435.539%20109.526L439.905%2098.6038L440.999%2097.5104Z'%20fill='%2332E6E2'/%3e%3cpath%20d='M212.056%20108.727L210.963%20109.821H177.079L175.986%20110.914C175.986%20113.101%20178.173%20119.657%20186.916%20119.657C190.196%20119.657%20193.472%20118.564%20194.566%20116.377L195.659%20115.284H208.776L209.869%20116.377C208.776%20122.934%20203.313%20132.774%20186.916%20132.774C168.336%20132.774%20159.589%20119.657%20159.589%20104.357C159.589%2089.0576%20168.332%2075.9408%20185.822%2075.9408C203.313%2075.9408%20212.056%2089.0576%20212.056%20104.357V108.731V108.727ZM195.659%2097.7971C195.659%2096.7037%20194.566%2089.0538%20185.822%2089.0538C177.079%2089.0538%20175.986%2096.7037%20175.986%2097.7971L177.079%2098.8905H194.566L195.659%2097.7971Z'%20fill='white'/%3e%3cpath%20d='M242.66%20115.284C242.66%20117.47%20243.753%20118.564%20245.94%20118.564H255.776L256.87%20119.657V130.587L255.776%20131.681H245.94C236.103%20131.681%20227.36%20127.307%20227.36%20115.284V91.2368L226.266%2090.1434H218.617L217.523%2089.05V78.1199L218.617%2077.0265H226.266L227.36%2075.9332V66.0965L228.453%2065.0031H241.57L242.663%2066.0965V75.9332L243.757%2077.0265H255.78L256.874%2078.1199V89.05L255.78%2090.1434H243.757L242.663%2091.2368V115.284H242.66Z'%20fill='white'/%3e%3cpath%20d='M283.1%20131.681H269.983L268.889%20130.587V56.2636L269.983%2055.1702H283.1L284.193%2056.2636V130.587L283.1%20131.681Z'%20fill='white'/%3e%3cpath%20d='M312.61%2068.2871H299.493L298.399%2067.1937V56.2636L299.493%2055.1702H312.61L313.703%2056.2636V67.1937L312.61%2068.2871ZM312.61%20131.681H299.493L298.399%20130.587V78.1237L299.493%2077.0304H312.61L313.703%2078.1237V130.587L312.61%20131.681Z'%20fill='white'/%3e%3cpath%20d='M363.98%2056.2636V67.1937L362.886%2068.2871H353.05C350.863%2068.2871%20349.769%2069.3805%20349.769%2071.5672V75.9408L350.863%2077.0342H361.793L362.886%2078.1276V89.0576L361.793%2090.151H350.863L349.769%2091.2444V130.591L348.676%20131.684H335.559L334.466%20130.591V91.2444L333.372%2090.151H325.723L324.629%2089.0576V78.1276L325.723%2077.0342H333.372L334.466%2075.9408V71.5672C334.466%2059.5438%20343.209%2055.1702%20353.046%2055.1702H362.882L363.976%2056.2636H363.98Z'%20fill='white'/%3e%3cpath%20d='M404.42%20132.774C400.046%20143.704%20395.677%20150.261%20380.373%20150.261H374.906L373.813%20149.167V138.237L374.906%20137.144H380.373C385.836%20137.144%20386.929%20136.05%20388.023%20132.77V131.677L370.536%2089.05V78.1199L371.63%2077.0265H381.466L382.56%2078.1199L395.677%20115.284H396.77L409.887%2078.1199L410.98%2077.0265H420.817L421.91%2078.1199V89.05L404.424%20132.77L404.42%20132.774Z'%20fill='white'/%3e%3cpath%20d='M135.454%20131.681L134.361%20130.587L134.368%2098.9172C134.368%2093.4541%20132.22%2089.2182%20125.625%2089.0806C122.234%2088.9926%20118.354%2089.0729%20114.209%2089.2488L113.59%2089.8834L113.598%20130.587L112.504%20131.681H99.3913L98.2979%20130.587V77.5388L99.3913%2076.4454L128.901%2076.1778C143.685%2076.1778%20149.668%2086.3356%20149.668%2097.8009V130.587L148.575%20131.681H135.454Z'%20fill='white'/%3e%3c/g%3e%3cdefs%3e%3cclipPath%20id='clip0_235_26'%3e%3crect%20width='512'%20height='208.126'%20fill='white'/%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e) ](https://netlify.com?utm_source=tanstack)[ ![Neon](data:image/svg+xml,%3csvg%20width='158'%20height='44'%20viewBox='0%200%20158%2044'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cg%20clip-path='url\(%23clip0_8138_23\)'%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M0%207.58621C0%203.39646%203.44137%200%207.68651%200H36.8952C41.1404%200%2044.5817%203.39646%2044.5817%207.58621V32.104C44.5817%2036.4386%2039.0241%2038.3197%2036.3287%2034.8976L27.902%2024.1991V37.1724C27.902%2040.9432%2024.8048%2044%2020.9842%2044H7.68651C3.44137%2044%200%2040.6035%200%2036.4138V7.58621ZM7.68651%206.06897C6.83748%206.06897%206.14921%206.74826%206.14921%207.58621V36.4138C6.14921%2037.2517%206.83748%2037.931%207.68651%2037.931H21.2148C21.6393%2037.931%2021.7528%2037.5914%2021.7528%2037.1724V19.7752C21.7528%2015.4407%2027.3104%2013.5594%2030.0059%2016.9816L38.4325%2027.6801V7.58621C38.4325%206.74826%2038.5129%206.06897%2037.6639%206.06897H7.68651Z'%20fill='%2332C0ED'/%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M0%207.58621C0%203.39646%203.44137%200%207.68651%200H36.8952C41.1404%200%2044.5817%203.39646%2044.5817%207.58621V32.104C44.5817%2036.4386%2039.0241%2038.3197%2036.3287%2034.8976L27.902%2024.1991V37.1724C27.902%2040.9432%2024.8048%2044%2020.9842%2044H7.68651C3.44137%2044%200%2040.6035%200%2036.4138V7.58621ZM7.68651%206.06897C6.83748%206.06897%206.14921%206.74826%206.14921%207.58621V36.4138C6.14921%2037.2517%206.83748%2037.931%207.68651%2037.931H21.2148C21.6393%2037.931%2021.7528%2037.5914%2021.7528%2037.1724V19.7752C21.7528%2015.4407%2027.3104%2013.5594%2030.0059%2016.9816L38.4325%2027.6801V7.58621C38.4325%206.74826%2038.5129%206.06897%2037.6639%206.06897H7.68651Z'%20fill='url\(%23paint0_linear_8138_23\)'/%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M0%207.58621C0%203.39646%203.44137%200%207.68651%200H36.8952C41.1404%200%2044.5817%203.39646%2044.5817%207.58621V32.104C44.5817%2036.4386%2039.0241%2038.3197%2036.3287%2034.8976L27.902%2024.1991V37.1724C27.902%2040.9432%2024.8048%2044%2020.9842%2044H7.68651C3.44137%2044%200%2040.6035%200%2036.4138V7.58621ZM7.68651%206.06897C6.83748%206.06897%206.14921%206.74826%206.14921%207.58621V36.4138C6.14921%2037.2517%206.83748%2037.931%207.68651%2037.931H21.2148C21.6393%2037.931%2021.7528%2037.5914%2021.7528%2037.1724V19.7752C21.7528%2015.4407%2027.3104%2013.5594%2030.0059%2016.9816L38.4325%2027.6801V7.58621C38.4325%206.74826%2038.5129%206.06897%2037.6639%206.06897H7.68651Z'%20fill='url\(%23paint1_linear_8138_23\)'%20fill-opacity='0.35'/%3e%3cpath%20d='M36.8954%200C41.1406%200%2044.5819%203.39646%2044.5819%207.58621V32.104C44.5819%2036.4386%2039.0243%2038.3197%2036.3289%2034.8976L27.9022%2024.1991V37.1724C27.9022%2040.9432%2024.805%2044%2020.9844%2044C21.4089%2044%2021.753%2043.6604%2021.753%2043.2414V19.7752C21.753%2015.4407%2027.3106%2013.5594%2030.0061%2016.9816L38.4327%2027.6801V1.51724C38.4327%200.679292%2037.7445%200%2036.8954%200Z'%20fill='%2363F655'/%3e%3cpath%20d='M75.1561%2012.9622V24.4706L63.8496%2012.9622H57.9648V31.7844H63.332V19.4155L75.6465%2031.7844H80.5232V12.9622H75.1561Z'%20fill='%231A1A1A'/%3e%3cpath%20d='M90.4724%2027.5898V24.2555H102.487V20.2491H90.4724V17.1569H105.048V12.9622H84.9963V31.7844H105.348V27.5898H90.4724Z'%20fill='%231A1A1A'/%3e%3cpath%20d='M119.61%2032.4029C127.157%2032.4029%20132.061%2028.746%20132.061%2022.3733C132.061%2016.0006%20127.157%2012.3438%20119.61%2012.3438C112.063%2012.3438%20107.187%2016.0006%20107.187%2022.3733C107.187%2028.746%20112.063%2032.4029%20119.61%2032.4029ZM119.61%2027.9393C115.415%2027.9393%20112.826%2025.9226%20112.826%2022.3733C112.826%2018.824%20115.442%2016.8073%20119.61%2016.8073C123.806%2016.8073%20126.394%2018.824%20126.394%2022.3733C126.394%2025.9226%20123.806%2027.9393%20119.61%2027.9393Z'%20fill='%231A1A1A'/%3e%3cpath%20d='M152.632%2012.9622V24.4706L141.326%2012.9622H135.441V31.7844H140.808V19.4155L153.123%2031.7844H157.999V12.9622H152.632Z'%20fill='%231A1A1A'/%3e%3c/g%3e%3cdefs%3e%3clinearGradient%20id='paint0_linear_8138_23'%20x1='44.5818'%20y1='44'%20x2='5.96033'%20y2='-0.503114'%20gradientUnits='userSpaceOnUse'%3e%3cstop%20stop-color='%232EF51C'/%3e%3cstop%20offset='1'%20stop-color='%232EF51C'%20stop-opacity='0'/%3e%3c/linearGradient%3e%3clinearGradient%20id='paint1_linear_8138_23'%20x1='44.5817'%20y1='44'%20x2='18.194'%20y2='33.6003'%20gradientUnits='userSpaceOnUse'%3e%3cstop%20stop-opacity='0.9'/%3e%3cstop%20offset='1'%20stop-color='%231A1A1A'%20stop-opacity='0'/%3e%3c/linearGradient%3e%3cclipPath%20id='clip0_8138_23'%3e%3crect%20width='158'%20height='44'%20fill='white'/%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e)![Neon](data:image/svg+xml,%3csvg%20width='158'%20height='44'%20viewBox='0%200%20158%2044'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M0%207.58621C0%203.39646%203.44137%200%207.68651%200H36.8952C41.1404%200%2044.5817%203.39646%2044.5817%207.58621V32.104C44.5817%2036.4386%2039.0241%2038.3197%2036.3287%2034.8976L27.902%2024.1991V37.1724C27.902%2040.9432%2024.8048%2044%2020.9842%2044H7.68651C3.44137%2044%200%2040.6035%200%2036.4138V7.58621ZM7.68651%206.06897C6.83748%206.06897%206.14921%206.74826%206.14921%207.58621V36.4138C6.14921%2037.2517%206.83748%2037.931%207.68651%2037.931H21.2148C21.6393%2037.931%2021.7528%2037.5914%2021.7528%2037.1724V19.7752C21.7528%2015.4407%2027.3104%2013.5594%2030.0059%2016.9816L38.4325%2027.6801V7.58621C38.4325%206.74826%2038.5129%206.06897%2037.6639%206.06897H7.68651Z'%20fill='%2312FFF7'/%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M0%207.58621C0%203.39646%203.44137%200%207.68651%200H36.8952C41.1404%200%2044.5817%203.39646%2044.5817%207.58621V32.104C44.5817%2036.4386%2039.0241%2038.3197%2036.3287%2034.8976L27.902%2024.1991V37.1724C27.902%2040.9432%2024.8048%2044%2020.9842%2044H7.68651C3.44137%2044%200%2040.6035%200%2036.4138V7.58621ZM7.68651%206.06897C6.83748%206.06897%206.14921%206.74826%206.14921%207.58621V36.4138C6.14921%2037.2517%206.83748%2037.931%207.68651%2037.931H21.2148C21.6393%2037.931%2021.7528%2037.5914%2021.7528%2037.1724V19.7752C21.7528%2015.4407%2027.3104%2013.5594%2030.0059%2016.9816L38.4325%2027.6801V7.58621C38.4325%206.74826%2038.5129%206.06897%2037.6639%206.06897H7.68651Z'%20fill='url\(%23paint0_linear_10558_11751\)'/%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M0%207.58621C0%203.39646%203.44137%200%207.68651%200H36.8952C41.1404%200%2044.5817%203.39646%2044.5817%207.58621V32.104C44.5817%2036.4386%2039.0241%2038.3197%2036.3287%2034.8976L27.902%2024.1991V37.1724C27.902%2040.9432%2024.8048%2044%2020.9842%2044H7.68651C3.44137%2044%200%2040.6035%200%2036.4138V7.58621ZM7.68651%206.06897C6.83748%206.06897%206.14921%206.74826%206.14921%207.58621V36.4138C6.14921%2037.2517%206.83748%2037.931%207.68651%2037.931H21.2148C21.6393%2037.931%2021.7528%2037.5914%2021.7528%2037.1724V19.7752C21.7528%2015.4407%2027.3104%2013.5594%2030.0059%2016.9816L38.4325%2027.6801V7.58621C38.4325%206.74826%2038.5129%206.06897%2037.6639%206.06897H7.68651Z'%20fill='url\(%23paint1_linear_10558_11751\)'/%3e%3cpath%20d='M36.8954%200C41.1406%200%2044.5819%203.39646%2044.5819%207.58621V32.104C44.5819%2036.4386%2039.0243%2038.3197%2036.3289%2034.8976L27.9022%2024.1991V37.1724C27.9022%2040.9432%2024.805%2044%2020.9844%2044C21.4089%2044%2021.753%2043.6604%2021.753%2043.2414V19.7752C21.753%2015.4407%2027.3106%2013.5594%2030.0061%2016.9816L38.4327%2027.6801V1.51724C38.4327%200.679292%2037.7445%200%2036.8954%200Z'%20fill='%23B9FFB3'/%3e%3cpath%20d='M75.1561%2012.9622V24.4706L63.8496%2012.9622H57.9648V31.7844H63.332V19.4155L75.6465%2031.7844H80.5232V12.9622H75.1561Z'%20fill='white'/%3e%3cpath%20d='M90.4725%2027.5898V24.2555H102.487V20.2491H90.4725V17.1569H105.048V12.9622H84.9964V31.7844H105.348V27.5898H90.4725Z'%20fill='white'/%3e%3cpath%20d='M119.61%2032.4029C127.157%2032.4029%20132.061%2028.746%20132.061%2022.3733C132.061%2016.0006%20127.157%2012.3438%20119.61%2012.3438C112.063%2012.3438%20107.187%2016.0006%20107.187%2022.3733C107.187%2028.746%20112.063%2032.4029%20119.61%2032.4029ZM119.61%2027.9393C115.415%2027.9393%20112.826%2025.9226%20112.826%2022.3733C112.826%2018.824%20115.442%2016.8073%20119.61%2016.8073C123.806%2016.8073%20126.394%2018.824%20126.394%2022.3733C126.394%2025.9226%20123.806%2027.9393%20119.61%2027.9393Z'%20fill='white'/%3e%3cpath%20d='M152.632%2012.9622V24.4706L141.326%2012.9622H135.441V31.7844H140.808V19.4155L153.123%2031.7844H157.999V12.9622H152.632Z'%20fill='white'/%3e%3cdefs%3e%3clinearGradient%20id='paint0_linear_10558_11751'%20x1='44.5818'%20y1='44'%20x2='5.96033'%20y2='-0.503116'%20gradientUnits='userSpaceOnUse'%3e%3cstop%20stop-color='%23B9FFB3'/%3e%3cstop%20offset='1'%20stop-color='%23B9FFB3'%20stop-opacity='0'/%3e%3c/linearGradient%3e%3clinearGradient%20id='paint1_linear_10558_11751'%20x1='44.5817'%20y1='44'%20x2='18.194'%20y2='33.6003'%20gradientUnits='userSpaceOnUse'%3e%3cstop%20stop-color='%231A1A1A'%20stop-opacity='0.9'/%3e%3cstop%20offset='1'%20stop-color='%231A1A1A'%20stop-opacity='0'/%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e) ](https://neon.tech?utm_source=tanstack)[ ![WorkOS](https://tanstack.com/assets/workos-black-DnPI5Ve5.svg)![WorkOS](data:image/svg+xml,%3csvg%20width='880'%20height='168'%20viewBox='0%200%20880%20168'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cg%20clip-path='url\(%23clip0_1647_45\)'%3e%3cpath%20d='M255.264%2025.3765H279.579L297.086%2097.519C300.332%20111.135%20300.976%20119.244%20300.976%20119.244H301.304C301.304%20119.244%20302.435%20111.306%20305.681%2097.519L322.373%2025.3765H349.934L367.599%2097.519C371.003%20111.622%20371.818%20119.244%20371.818%20119.244H372.304C372.304%20119.244%20372.632%20111.622%20375.866%2097.519L392.729%2025.3765H417.043L386.249%20143.717H359.174L340.536%2072.0612C336.646%2056.4997%20336.318%2049.5334%20336.318%2049.5334H335.99C335.99%2049.5334%20335.661%2056.4997%20332.099%2072.0612L314.592%20143.717H286.715L255.264%2025.3765Z'%20fill='white'/%3e%3cpath%20d='M412.984%20100.726C412.984%2073.6509%20430.491%2056.1442%20456.921%2056.1442C483.181%2056.1442%20500.688%2073.6509%20500.688%20100.726C500.688%20127.958%20483.181%20145.635%20456.921%20145.635C430.503%20145.623%20412.984%20127.958%20412.984%20100.726ZM477.99%20100.726C477.99%2083.2189%20469.565%2073.3227%20456.921%2073.3227C443.305%2073.3227%20435.682%2084.3495%20435.682%20100.726C435.682%20118.561%20444.107%20128.445%20456.921%20128.445C470.537%20128.445%20477.99%20117.418%20477.99%20100.726Z'%20fill='white'/%3e%3cpath%20d='M511.545%2057.4711H533.101V73.3609H533.587C537.319%2065.0938%20546.231%2056.8267%20561.464%2056.8267C564.054%2056.8267%20565.683%2057.155%20566.813%2057.4711V79.0263H566.169C566.169%2079.0263%20564.224%2078.3819%20558.875%2078.3819C542.182%2078.3819%20533.101%2088.266%20533.101%20106.745V143.704H511.545V57.4711Z'%20fill='white'/%3e%3cpath%20d='M576.868%2025.3765H598.423V63.3079C598.423%2085.6776%20598.095%2089.7261%20598.095%2089.7261H598.423L630.519%2057.4723H657.424L619.833%2094.7592L663.442%20143.717H637.984L606.532%20108.047L598.423%20115.986V143.705H576.868V25.3765Z'%20fill='white'/%3e%3cpath%20d='M663.757%2084.9796C663.757%2048.5072%20686.455%2024.1923%20720.496%2024.1923C754.537%2024.1923%20777.235%2048.5072%20777.235%2084.9796C777.235%20121.452%20754.537%20145.767%20720.496%20145.767C686.455%20145.767%20663.757%20121.452%20663.757%2084.9796ZM753.722%2084.9796C753.722%2060.1784%20740.434%2043.474%20720.483%2043.474C700.533%2043.474%20687.257%2060.1784%20687.257%2084.9796C687.257%20109.781%20700.545%20126.485%20720.483%20126.485C740.422%20126.485%20753.722%20109.781%20753.722%2084.9796Z'%20fill='white'/%3e%3cpath%20d='M785.488%20104.326H810.131C810.131%20118.271%20819.699%20126.052%20834.288%20126.052C846.603%20126.052%20855.041%20119.888%20855.041%20111.135C855.041%20101.25%20848.561%2098.6488%20827.966%2094.6003C809.158%2090.868%20789.22%2084.5461%20789.22%2059.9029C789.22%2039.3203%20806.727%2023.7587%20833.473%2023.7587C861.35%2023.7587%20878.541%2038.3477%20878.541%2060.3892H853.898C853.898%2049.6906%20845.631%2043.0405%20833.473%2043.0405C821.158%2043.0405%20813.535%2049.0341%20813.535%2057.7875C813.535%2067.0272%20818.884%2070.5893%20835.419%2073.9934C859.892%2079.1847%20880%2081.9323%20880%20109.165C880%20130.745%20861.192%20145.333%20833.473%20145.333C805.268%20145.333%20785.488%20128.957%20785.488%20104.326Z'%20fill='white'/%3e%3cpath%20d='M0%2084.0003C0%2087.6782%200.967855%2091.356%202.83904%2094.5177L36.7785%20153.299C40.2628%20159.299%2045.5537%20164.203%2052.1351%20166.397C65.1044%20170.72%2078.5253%20165.171%2084.9131%20154.073L93.1076%20139.878L60.7813%2084.0003L94.9143%2024.8321L103.109%2010.6369C105.561%206.37836%20108.851%202.89408%20112.723%200.119568H109.174H60.0715C50.8446%200.119568%2042.3275%205.02337%2037.7463%2013.0243L2.83904%2073.483C0.967855%2076.6446%200%2080.3225%200%2084.0003Z'%20fill='white'/%3e%3cpath%20d='M193.571%2083.9997C193.571%2080.3219%20192.603%2076.644%20190.732%2073.4824L156.341%2013.9271C149.953%202.89352%20136.532%20-2.65551%20123.563%201.60305C116.982%203.79685%20111.691%208.70065%20108.206%2014.7013L100.464%2028.0577L132.79%2083.9997L98.6569%20143.168L90.4624%20157.363C88.0105%20161.557%2084.7198%20165.106%2080.8484%20167.88H84.3972H133.5C142.727%20167.88%20151.244%20162.977%20155.825%20154.976L190.732%2094.5171C192.603%2091.3554%20193.571%2087.6776%20193.571%2083.9997Z'%20fill='white'/%3e%3c/g%3e%3cdefs%3e%3cclipPath%20id='clip0_1647_45'%3e%3crect%20width='880'%20height='168'%20fill='white'/%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e) ](https://workos.com?utm_source=tanstack)[ ![Clerk](https://tanstack.com/assets/clerk-logo-light-BYN-U_0H.svg)![Clerk](https://tanstack.com/assets/clerk-logo-dark-CRE22T_2.svg) ](https://go.clerk.com/wOwHtuJ)[ ![Convex](data:image/svg+xml,%3csvg%20height='88.59'%20viewBox='0%200%20516.8%2088.59'%20width='516.8'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='m467.88%2044.55-22.19-29.38h25.72l45.39%2059.77h-25.97l-10.09-13.37-10.09%2013.37h-25.85z'/%3e%3cpath%20d='m490.26%2015.17h25.6l-19.65%2026.17-13-16.77z'/%3e%3cpath%20d='m115.27%2068.32c-6.18-5.25-9.27-13.01-9.27-23.26s3.15-18.01%209.46-23.26c6.3-5.25%2014.92-7.88%2025.85-7.88%204.54%200%208.55.31%2012.04.95%203.49.63%206.83%201.7%2010.02%203.22v16.63c-4.96-2.35-10.59-3.53-16.89-3.53-5.55%200-9.65%201.05-12.29%203.15-2.65%202.1-3.97%205.67-3.97%2010.72s1.3%208.41%203.91%2010.59c2.6%202.19%206.72%203.28%2012.36%203.28%205.97%200%2011.64-1.39%2017.02-4.16v17.4c-5.97%202.69-13.41%204.03-22.32%204.03-11.11%200-19.74-2.63-25.92-7.88z'/%3e%3cpath%20d='m168.89%2045.05c0-10.17%202.9-17.9%208.7-23.2s14.54-7.94%2026.23-7.94%2020.57%202.65%2026.42%207.94c5.84%205.29%208.76%2013.03%208.76%2023.2%200%2020.76-11.73%2031.14-35.18%2031.14-23.29.01-34.93-10.37-34.93-31.14zm43.32%2010.6c1.72-2.19%202.58-5.72%202.58-10.59s-.86-8.3-2.58-10.53-4.52-3.34-8.39-3.34-6.52%201.12-8.2%203.34c-1.68%202.23-2.52%205.74-2.52%2010.53s.84%208.41%202.52%2010.59c1.68%202.19%204.41%203.28%208.2%203.28%203.87%200%206.66-1.1%208.39-3.28z'/%3e%3cpath%20d='m244.52%2015.17h22.19l.63%204.54c2.44-1.68%205.55-3.07%209.33-4.16s7.69-1.64%2011.73-1.64c7.48%200%2012.94%201.85%2016.39%205.55s5.17%209.41%205.17%2017.15v38.33h-23.7v-35.94c0-2.69-.61-4.62-1.83-5.8s-3.26-1.76-6.12-1.76c-1.76%200-3.57.4-5.42%201.2s-3.4%201.83-4.67%203.09v39.21h-23.7z'/%3e%3cpath%20d='m310.03%2015.17h24.71l11.35%2035.05%2011.35-35.05h24.71l-23.58%2059.77h-24.97z'/%3e%3cpath%20d='m389.61%2069.8c-7.12-5.34-10.45-14.61-10.45-24.62s2.65-17.78%208.7-23.33%2015.27-7.94%2026.91-7.94c10.71%200%2019.13%202.48%2025.28%207.44%206.14%204.96%209.22%2011.73%209.22%2020.3v10.47h-45.07c1.12%203.11%202.54%205.36%206.03%206.75s8.36%202.08%2014.59%202.08c3.72%200%207.52-.29%2011.38-.88%201.36-.21%203.6-.54%204.78-.79v14.53c-5.89%201.6-13.74%202.4-22.59%202.4-11.91-.01-21.66-1.07-28.78-6.41zm34.76-30.54c0-2.96-3.41-9.33-10.26-9.33-6.18%200-10.26%206.27-10.26%209.33z'/%3e%3cpath%20d='m55.59%2069.82c13.1-1.43%2025.45-8.29%2032.25-19.74-3.22%2028.32-34.73%2046.22-60.45%2035.23-2.37-1.01-4.41-2.69-5.81-4.85-5.78-8.92-7.68-20.27-4.95-30.57%207.8%2013.23%2023.66%2021.34%2038.96%2019.93z'%20fill='%23f3b01c'/%3e%3cpath%20d='m16.15%2041.58c-5.31%2012.06-5.54%2026.18.97%2037.8-22.91-16.94-22.66-53.19-.28-69.96%202.07-1.55%204.53-2.47%207.11-2.61%2010.61-.55%2021.39%203.48%2028.95%2010.99-15.36.15-30.32%209.82-36.75%2023.78z'%20fill='%238d2676'/%3e%3cpath%20d='m60.31%2021.51c-7.75-10.62-19.88-17.85-33.17-18.07%2025.69-11.46%2057.29%207.12%2060.73%2034.59.32%202.55-.1%205.15-1.25%207.45-4.8%209.58-13.7%2017.01-24.1%2019.76%207.62-13.89%206.68-30.86-2.21-43.73z'%20fill='%23ee342f'/%3e%3c/svg%3e)![Convex](data:image/svg+xml,%3csvg%20height='88.59'%20viewBox='0%200%20516.8%2088.59'%20width='516.8'%20xmlns='http://www.w3.org/2000/svg'%3e%3cg%20fill='%23fff'%3e%3cpath%20d='m467.88%2044.55-22.19-29.38h25.72l45.39%2059.77h-25.97l-10.09-13.37-10.09%2013.37h-25.85z'/%3e%3cpath%20d='m490.26%2015.17h25.6l-19.65%2026.17-13-16.77z'/%3e%3cpath%20d='m115.27%2068.32c-6.18-5.25-9.27-13.01-9.27-23.26s3.15-18.01%209.46-23.26c6.3-5.25%2014.92-7.88%2025.85-7.88%204.54%200%208.55.31%2012.04.95%203.49.63%206.83%201.7%2010.02%203.22v16.63c-4.96-2.35-10.59-3.53-16.89-3.53-5.55%200-9.65%201.05-12.29%203.15-2.65%202.1-3.97%205.67-3.97%2010.72s1.3%208.41%203.91%2010.59c2.6%202.19%206.72%203.28%2012.36%203.28%205.97%200%2011.64-1.39%2017.02-4.16v17.4c-5.97%202.69-13.41%204.03-22.32%204.03-11.11%200-19.74-2.63-25.92-7.88z'/%3e%3cpath%20d='m168.89%2045.05c0-10.17%202.9-17.9%208.7-23.2s14.54-7.94%2026.23-7.94%2020.57%202.65%2026.42%207.94c5.84%205.29%208.76%2013.03%208.76%2023.2%200%2020.76-11.73%2031.14-35.18%2031.14-23.29.01-34.93-10.37-34.93-31.14zm43.32%2010.6c1.72-2.19%202.58-5.72%202.58-10.59s-.86-8.3-2.58-10.53-4.52-3.34-8.39-3.34-6.52%201.12-8.2%203.34c-1.68%202.23-2.52%205.74-2.52%2010.53s.84%208.41%202.52%2010.59c1.68%202.19%204.41%203.28%208.2%203.28%203.87%200%206.66-1.1%208.39-3.28z'/%3e%3cpath%20d='m244.52%2015.17h22.19l.63%204.54c2.44-1.68%205.55-3.07%209.33-4.16s7.69-1.64%2011.73-1.64c7.48%200%2012.94%201.85%2016.39%205.55s5.17%209.41%205.17%2017.15v38.33h-23.7v-35.94c0-2.69-.61-4.62-1.83-5.8s-3.26-1.76-6.12-1.76c-1.76%200-3.57.4-5.42%201.2s-3.4%201.83-4.67%203.09v39.21h-23.7z'/%3e%3cpath%20d='m310.03%2015.17h24.71l11.35%2035.05%2011.35-35.05h24.71l-23.58%2059.77h-24.97z'/%3e%3cpath%20d='m389.61%2069.8c-7.12-5.34-10.45-14.61-10.45-24.62s2.65-17.78%208.7-23.33%2015.27-7.94%2026.91-7.94c10.71%200%2019.13%202.48%2025.28%207.44%206.14%204.96%209.22%2011.73%209.22%2020.3v10.47h-45.07c1.12%203.11%202.54%205.36%206.03%206.75s8.36%202.08%2014.59%202.08c3.72%200%207.52-.29%2011.38-.88%201.36-.21%203.6-.54%204.78-.79v14.53c-5.89%201.6-13.74%202.4-22.59%202.4-11.91-.01-21.66-1.07-28.78-6.41zm34.76-30.54c0-2.96-3.41-9.33-10.26-9.33-6.18%200-10.26%206.27-10.26%209.33z'/%3e%3cpath%20d='m55.59%2069.82c13.1-1.43%2025.45-8.29%2032.25-19.74-3.22%2028.32-34.73%2046.22-60.45%2035.23-2.37-1.01-4.41-2.69-5.81-4.85-5.78-8.92-7.68-20.27-4.95-30.57%207.8%2013.23%2023.66%2021.34%2038.96%2019.93z'/%3e%3cpath%20d='m16.15%2041.58c-5.31%2012.06-5.54%2026.18.97%2037.8-22.91-16.94-22.66-53.19-.28-69.96%202.07-1.55%204.53-2.47%207.11-2.61%2010.61-.55%2021.39%203.48%2028.95%2010.99-15.36.15-30.32%209.82-36.75%2023.78z'/%3e%3cpath%20d='m60.31%2021.51c-7.75-10.62-19.88-17.85-33.17-18.07%2025.69-11.46%2057.29%207.12%2060.73%2034.59.32%202.55-.1%205.15-1.25%207.45-4.8%209.58-13.7%2017.01-24.1%2019.76%207.62-13.89%206.68-30.86-2.21-43.73z'/%3e%3c/g%3e%3c/svg%3e) ](https://convex.dev?utm_source=tanstack)[ ![Electric](https://tanstack.com/assets/electric-light-C-5MDda4.svg)![Electric](https://tanstack.com/assets/electric-dark-Bfu2Vl2j.svg) ](https://electric-sql.com)[ ![Sentry](data:image/svg+xml,%3csvg%20height='119'%20viewBox='0%200%20222%2066'%20width='400'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='m29%202.26a4.67%204.67%200%200%200%20-8%200l-6.58%2011.27a32.21%2032.21%200%200%201%2017.75%2026.66h-4.62a27.68%2027.68%200%200%200%20-15.46-22.72l-6.09%2010.53a15.92%2015.92%200%200%201%209.23%2012.17h-10.61a.76.76%200%200%201%20-.62-1.11l2.94-5a10.74%2010.74%200%200%200%20-3.36-1.9l-2.91%205a4.54%204.54%200%200%200%201.69%206.24%204.66%204.66%200%200%200%202.26.6h14.53a19.4%2019.4%200%200%200%20-8-17.31l2.31-4a23.87%2023.87%200%200%201%2010.3%2021.31h12.31a35.88%2035.88%200%200%200%20-16.41-31.8l4.67-8a.77.77%200%200%201%201.05-.27c.53.29%2020.29%2034.77%2020.66%2035.17a.76.76%200%200%201%20-.68%201.13h-4.76q.09%201.91%200%203.81h4.78a4.59%204.59%200%200%200%204.62-4.61%204.49%204.49%200%200%200%20-.62-2.28zm95.32%2026.02-14.76-19.06h-3.68v25.55h3.73v-19.58l15.18%2019.58h3.26v-25.55h-3.73zm-37.17-4.74h13.23v-3.32h-13.24v-7.69h14.93v-3.32h-18.73v25.56h18.92v-3.32h-15.12zm-15.56-3.24c-5.15-1.24-6.59-2.22-6.59-4.6%200-2.14%201.89-3.59%204.71-3.59a12.06%2012.06%200%200%201%207.07%202.55l2-2.83a14.1%2014.1%200%200%200%20-9-3c-5.06%200-8.59%203-8.59%207.27%200%204.6%203%206.19%208.46%207.52%204.86%201.12%206.35%202.16%206.35%204.49s-2%203.77-5.09%203.77a12.34%2012.34%200%200%201%20-8.3-3.26l-2.25%202.69a15.94%2015.94%200%200%200%2010.42%203.85c5.48%200%209-2.95%209-7.51-.03-3.86-2.31-5.93-8.19-7.35zm124.11-11.08-7.69%2012-7.64-12h-4.46l10.09%2015.45v10.11h3.84v-10.23l10.16-15.33zm-64.63%203.46h8.37v22.1h3.84v-22.1h8.37v-3.46h-20.57zm38.34%2012.12c3.86-1.07%206-3.77%206-7.63%200-4.91-3.59-8-9.38-8h-11.36v25.59h3.8v-9.18h6.45l6.48%209.2h4.44l-7-9.82zm-10.95-2.5v-9.7h7.17c3.74%200%205.88%201.77%205.88%204.84s-2.29%204.86-5.84%204.86z'%20fill='%23362d59'%20transform='translate\(11%2011\)'/%3e%3c/svg%3e)![Sentry](data:image/svg+xml,%3csvg%20height='119'%20viewBox='0%200%20222%2066'%20width='400'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='m29%202.26a4.67%204.67%200%200%200%20-8%200l-6.58%2011.27a32.21%2032.21%200%200%201%2017.75%2026.66h-4.62a27.68%2027.68%200%200%200%20-15.46-22.72l-6.09%2010.53a15.92%2015.92%200%200%201%209.23%2012.17h-10.61a.76.76%200%200%201%20-.62-1.11l2.94-5a10.74%2010.74%200%200%200%20-3.36-1.9l-2.91%205a4.54%204.54%200%200%200%201.69%206.24%204.66%204.66%200%200%200%202.26.6h14.53a19.4%2019.4%200%200%200%20-8-17.31l2.31-4a23.87%2023.87%200%200%201%2010.3%2021.31h12.31a35.88%2035.88%200%200%200%20-16.41-31.8l4.67-8a.77.77%200%200%201%201.05-.27c.53.29%2020.29%2034.77%2020.66%2035.17a.76.76%200%200%201%20-.68%201.13h-4.76q.09%201.91%200%203.81h4.78a4.59%204.59%200%200%200%204.62-4.61%204.49%204.49%200%200%200%20-.62-2.28zm95.32%2026.02-14.76-19.06h-3.68v25.55h3.73v-19.58l15.18%2019.58h3.26v-25.55h-3.73zm-37.17-4.74h13.23v-3.32h-13.24v-7.69h14.93v-3.32h-18.73v25.56h18.92v-3.32h-15.12zm-15.56-3.24c-5.15-1.24-6.59-2.22-6.59-4.6%200-2.14%201.89-3.59%204.71-3.59a12.06%2012.06%200%200%201%207.07%202.55l2-2.83a14.1%2014.1%200%200%200%20-9-3c-5.06%200-8.59%203-8.59%207.27%200%204.6%203%206.19%208.46%207.52%204.86%201.12%206.35%202.16%206.35%204.49s-2%203.77-5.09%203.77a12.34%2012.34%200%200%201%20-8.3-3.26l-2.25%202.69a15.94%2015.94%200%200%200%2010.42%203.85c5.48%200%209-2.95%209-7.51-.03-3.86-2.31-5.93-8.19-7.35zm124.11-11.08-7.69%2012-7.64-12h-4.46l10.09%2015.45v10.11h3.84v-10.23l10.16-15.33zm-64.63%203.46h8.37v22.1h3.84v-22.1h8.37v-3.46h-20.57zm38.34%2012.12c3.86-1.07%206-3.77%206-7.63%200-4.91-3.59-8-9.38-8h-11.36v25.59h3.8v-9.18h6.45l6.48%209.2h4.44l-7-9.82zm-10.95-2.5v-9.7h7.17c3.74%200%205.88%201.77%205.88%204.84s-2.29%204.86-5.84%204.86z'%20fill='%23fff'%20transform='translate\(11%2011\)'/%3e%3c/svg%3e) ](https://sentry.io?utm_source=tanstack)[ ![Prisma](https://tanstack.com/assets/prisma-light-Cloa3Onm.svg)![Prisma](https://tanstack.com/assets/prisma-dark-DwgDxLwn.svg) ](https://www.prisma.io/?utm_source=tanstack&via=tanstack)[ ![Strapi](https://tanstack.com/assets/strapi-light-6x7linao.svg)![Strapi](https://tanstack.com/assets/strapi-dark-CQ84tQTk.svg) ](https://strapi.link/tanstack-start)[ ![Unkey](data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='UTF-8'?%3e%3csvg%20width='92px'%20height='27px'%20viewBox='0%200%2092%2027'%20version='1.1'%20xmlns='http://www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3e%3ctitle%3eShape%3c/title%3e%3cg%20id='Page-1'%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%3e%3cpath%20d='M9.8,21.3%20C3.8,21.3%200.38,18.12%200.38,12.66%20L0.38,0.9%20L3.59,0.9%20L3.59,12.45%20C3.59,16.5%205.39,18.18%209.8,18.18%20C14.21,18.18%2016.01,16.5%2016.01,12.45%20L16.01,0.9%20L19.25,0.9%20L19.25,12.66%20C19.25,18.12%2015.83,21.3%209.8,21.3%20L9.8,21.3%20Z%20M25.3611,21%20L22.1211,21%20L22.1211,6.09%20L25.0911,6.09%20L25.0911,10.71%20L25.3011,10.71%20C25.7511,8.19%2027.7311,5.79%2031.5111,5.79%20C35.6511,5.79%2037.6911,8.58%2037.6911,12.03%20L37.6911,21%20L34.4511,21%20L34.4511,12.9%20C34.4511,10.11%2033.1911,8.7%2030.1011,8.7%20C26.8311,8.7%2025.3611,10.38%2025.3611,13.62%20L25.3611,21%20Z%20M43.8181,21%20L40.5781,21%20L40.5781,0.9%20L43.8181,0.9%20L43.8181,12%20L48.0781,12%20L52.5481,6.09%20L56.3281,6.09%20L50.7181,13.26%20L56.2981,21%20L52.4881,21%20L48.0781,14.91%20L43.8181,14.91%20L43.8181,21%20Z%20M65.4219,21.3%20C60.5319,21.3%2057.3219,18.54%2057.3219,13.56%20C57.3219,8.91%2060.5019,5.79%2065.3619,5.79%20C69.9819,5.79%2073.1319,8.34%2073.1319,12.87%20C73.1319,13.41%2073.1019,13.83%2073.0119,14.28%20L60.3519,14.28%20C60.4719,17.16%2061.8819,18.69%2065.3319,18.69%20C68.4519,18.69%2069.7419,17.67%2069.7419,15.9%20L69.7419,15.66%20L72.9819,15.66%20L72.9819,15.93%20C72.9819,19.11%2069.8619,21.3%2065.4219,21.3%20L65.4219,21.3%20Z%20M65.3019,8.34%20C62.0019,8.34%2060.5619,9.81%2060.3819,12.48%20L70.0719,12.48%20L70.0719,12.42%20C70.0719,9.66%2068.4819,8.34%2065.3019,8.34%20L65.3019,8.34%20Z%20M77.9586,26.1%20L75.8286,26.1%20L75.8286,23.16%20L78.7386,23.16%20C80.0586,23.16%2080.5986,22.8%2081.0486,21.78%20L81.4086,21%20L74.0586,6.09%20L77.6886,6.09%20L81.4986,14.01%20L82.9686,17.58%20L83.2086,17.58%20L84.6186,13.98%20L88.1286,6.09%20L91.6986,6.09%20L83.9286,22.62%20C82.6986,25.29%2081.0186,26.1%2077.9586,26.1%20Z'%20id='Shape'%20fill='%23000000'%20fill-rule='nonzero'%3e%3c/path%3e%3c/g%3e%3c/svg%3e)![Unkey](data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='UTF-8'?%3e%3csvg%20width='92px'%20height='27px'%20viewBox='0%200%2092%2027'%20version='1.1'%20xmlns='http://www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3e%3ctitle%3eShape%3c/title%3e%3cg%20id='Page-1'%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%3e%3cpath%20d='M9.8,21.3%20C3.8,21.3%200.38,18.12%200.38,12.66%20L0.38,0.9%20L3.59,0.9%20L3.59,12.45%20C3.59,16.5%205.39,18.18%209.8,18.18%20C14.21,18.18%2016.01,16.5%2016.01,12.45%20L16.01,0.9%20L19.25,0.9%20L19.25,12.66%20C19.25,18.12%2015.83,21.3%209.8,21.3%20L9.8,21.3%20Z%20M25.3611,21%20L22.1211,21%20L22.1211,6.09%20L25.0911,6.09%20L25.0911,10.71%20L25.3011,10.71%20C25.7511,8.19%2027.7311,5.79%2031.5111,5.79%20C35.6511,5.79%2037.6911,8.58%2037.6911,12.03%20L37.6911,21%20L34.4511,21%20L34.4511,12.9%20C34.4511,10.11%2033.1911,8.7%2030.1011,8.7%20C26.8311,8.7%2025.3611,10.38%2025.3611,13.62%20L25.3611,21%20Z%20M43.8181,21%20L40.5781,21%20L40.5781,0.9%20L43.8181,0.9%20L43.8181,12%20L48.0781,12%20L52.5481,6.09%20L56.3281,6.09%20L50.7181,13.26%20L56.2981,21%20L52.4881,21%20L48.0781,14.91%20L43.8181,14.91%20L43.8181,21%20Z%20M65.4219,21.3%20C60.5319,21.3%2057.3219,18.54%2057.3219,13.56%20C57.3219,8.91%2060.5019,5.79%2065.3619,5.79%20C69.9819,5.79%2073.1319,8.34%2073.1319,12.87%20C73.1319,13.41%2073.1019,13.83%2073.0119,14.28%20L60.3519,14.28%20C60.4719,17.16%2061.8819,18.69%2065.3319,18.69%20C68.4519,18.69%2069.7419,17.67%2069.7419,15.9%20L69.7419,15.66%20L72.9819,15.66%20L72.9819,15.93%20C72.9819,19.11%2069.8619,21.3%2065.4219,21.3%20L65.4219,21.3%20Z%20M65.3019,8.34%20C62.0019,8.34%2060.5619,9.81%2060.3819,12.48%20L70.0719,12.48%20L70.0719,12.42%20C70.0719,9.66%2068.4819,8.34%2065.3019,8.34%20L65.3019,8.34%20Z%20M77.9586,26.1%20L75.8286,26.1%20L75.8286,23.16%20L78.7386,23.16%20C80.0586,23.16%2080.5986,22.8%2081.0486,21.78%20L81.4086,21%20L74.0586,6.09%20L77.6886,6.09%20L81.4986,14.01%20L82.9686,17.58%20L83.2086,17.58%20L84.6186,13.98%20L88.1286,6.09%20L91.6986,6.09%20L83.9286,22.62%20C82.6986,25.29%2081.0186,26.1%2077.9586,26.1%20Z'%20id='Shape'%20fill='%23FFFFFF'%20fill-rule='nonzero'%3e%3c/path%3e%3c/g%3e%3c/svg%3e) ](https://www.unkey.com/?utm_source=tanstack)
+[Learn about TanStack Ads](https://tanstack.com/ads)[Hide Ads](https://tanstack.com/ads#hide-ads)
